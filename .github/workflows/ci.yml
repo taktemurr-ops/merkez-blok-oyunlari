@@ -1,0 +1,129 @@
+name: CI - analyze, test, Android, Web
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+# Least privilege for every job (read-only token).
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FLUTTER_VERSION: "3.47.9"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Security - no secrets or keys committed
+        run: python tool/check_secrets.py
+
+      - name: Generate icons, splash, sounds and store graphics
+        run: |
+          pip install pillow==11.0.0
+          python tool/generate_assets.py
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Create platform folders (android, ios, web) if missing
+        run: |
+          flutter create --platforms=android,ios,web --org com.gamestudio100 --project-name merkez_blok_oyunlari .
+          python tool/patch_platforms.py
+
+      - run: flutter pub get
+
+      - name: App icons and splash screens
+        run: |
+          dart run flutter_launcher_icons
+          dart run flutter_native_splash:create
+
+      - name: Static analysis
+        run: flutter analyze --no-fatal-infos
+
+      - name: Unit, rule, save and 24-month simulation tests
+        run: flutter test --reporter expanded
+
+      - name: Android release APK + App Bundle
+        run: |
+          # Obfuscated release builds; symbols kept as a private artifact
+          # for de-obfuscating crash reports.
+          # One retry: Gradle plugin/Maven mirrors occasionally fail to resolve.
+          for t in apk appbundle; do
+            flutter build $t --release --obfuscate --split-debug-info=build/symbols/android \
+              || (sleep 60 && flutter build $t --release --obfuscate --split-debug-info=build/symbols/android)
+          done
+
+      - name: Web build (also published on GitHub Pages for device testing)
+        run: flutter build web --release --base-href "/merkez-blok-oyunlari/"
+
+      - name: Package web build for GitHub Pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/web
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: merkez-blok-oyunlari-android
+          path: |
+            build/app/outputs/flutter-apk/app-release.apk
+            build/app/outputs/bundle/release/app-release.aab
+          if-no-files-found: error
+          retention-days: 14
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: merkez-blok-oyunlari-debug-symbols
+          path: build/symbols
+          retention-days: 90
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: merkez-blok-oyunlari-web
+          path: build/web
+          retention-days: 14
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: merkez-blok-oyunlari-store-graphics
+          path: store/
+          retention-days: 30
+
+  # Playable web version on https://<owner>.github.io/merkez-blok-oyunlari/ so every
+  # phone, tablet and desktop browser can be tested without installing.
+  # Needs Settings > Pages > Source = "GitHub Actions"; if Pages is off the
+  # deploy is skipped without failing CI.
+  pages:
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

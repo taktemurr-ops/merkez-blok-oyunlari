@@ -1,0 +1,74 @@
+name: merkez_blok_oyunlari
+description: "Blok Oyunları merkez uygulaması (Blok Bulmaca, Blok Sudoku). Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 9ecb1685661e81cee4c641f247afade9bd9f6f0a
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  game_001_block_puzzle_master:
+    git:
+      url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
+      ref: 2f5d2d8e9c318932b359b66e61a3d31831ea3d06
+  oyun_blok_sudoku:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blok-sudoku
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 9ecb1685661e81cee4c641f247afade9bd9f6f0a
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#283593"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#283593"
+    theme_color: "#283593"
+
+flutter_native_splash:
+  color: "#283593"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#283593"
+    image: assets/branding/splash_android12.png
+  web: true
