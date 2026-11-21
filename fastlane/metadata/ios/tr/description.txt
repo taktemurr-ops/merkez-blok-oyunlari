@@ -1,0 +1,7 @@
+Blok Oyunları, en sevilen blok bulmacalarını tek uygulamada toplar.
+
+• Blok Bulmaca: Parçaları 8x8 ya da 10x10 tahtaya yerleştir, dolu satır ve sütunları patlat.
+• Blok Sudoku: 9x9 tahtada satır, sütun ve 3x3 kutuları doldur.
+
+Her oyunda on binlerce bölüm, günlük ve haftalık görevler, sonsuz, zamana karşı ve rahat (zen) modlar vardır.
+İnternetsiz oynanır. Telefon, tablet ve webde çalışır. Kumar veya şans oyunu içermez.

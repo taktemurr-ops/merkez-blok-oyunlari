@@ -1,0 +1,31 @@
+Blok Oyunları, 17 farklı blok bulmacasını ve 20 tahta çeşidini tek uygulamada toplar. Her oyunun kendi kayıtları, görevleri ve başarımları vardır.
+
+• Blok Bulmaca Ustası: Parçaları tahtaya yerleştir, dolu satır ve sütunları patlat.
+• Blok Sudoku: 9x9 tahtada satırları, sütunları ve kutuları doldur.
+• Blok Doldurma: Verilen parçalarla şekli eksiksiz doldur.
+• Düşen Bloklar: Düşen parçaları döndür, sıraları tamamla.
+• Altıgen Blok: Altıgen tahtada üç yönde sıra tamamla.
+• Blok Kaydırma: Blokları kaydır, boşlukları kapat.
+• Sayılı Bloklar: Aynı sayıları birleştir, büyük blokları yakala.
+• Altıgen Yağmuru: Düşen altıgenleri gruplayıp erit.
+• Retro Konsol: Yarış, Yılan, Atış ve Tuğla Kır tek ekranda.
+• Blok Kaçışı: Okları izle, doğru sırayla tahtayı boşalt.
+• Beşli Yerleştirme: Beşli parçalarla tahtayı kapla.
+• Renkli Kapılar: Blokları kendi renginin kapısından çıkar.
+• Kum Blokları: Kuma dönüşen bloklarla renk köprüsü kur.
+• Küp Ustası: Parçalarla katman katman küpü tamamla.
+• Denge Kulesi: Rakibinle sırayla blok çek, kuleyi devirme.
+• Eğim Kutusu: Kutuyu eğ, aynı renkleri buluşturup erit.
+• Alan Bölme: Tahtayı sayılara göre dikdörtgenlere böl.
+• Blok Çeşitleri: 20 farklı tahta ve parça seti.
+
+Öne çıkanlar
+• Oyun başına 50.000 ile 100.000 arası bölüm; her bölüm çözücüyle denetlenir.
+• Günlük ve haftalık bölümler, görevler, başarımlar ve koleksiyon.
+• İpucu ve geri al; zorlandığında yardım hep yanında.
+• Renk körlüğü için sembol modu, 33 dil, sağdan sola diller.
+• İnternetsiz oynanır. Telefon, tablet ve webde çalışır.
+• Hesap, doğum tarihi ya da kişisel bilgi istemez.
+• Kumar, şans oyunu veya 18+ içerik yoktur.
+
+"Reklamsız" ve "Premium" satın alımları uygulamadaki tüm oyunlarda geçerlidir.

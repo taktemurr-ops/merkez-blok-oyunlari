@@ -12,12 +12,12 @@ pubspec.lock
 assets/branding/
 assets/sfx/
 store/
-android/
-ios/
-web/
-linux/
-macos/
-windows/
+/android/
+/ios/
+/web/
+/linux/
+/macos/
+/windows/
 
 # IDE
 .idea/

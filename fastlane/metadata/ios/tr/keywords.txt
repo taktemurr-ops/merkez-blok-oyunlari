@@ -1,0 +1,1 @@
+blok,bulmaca,tetris,puzzle,zeka,patlat,klasik,offline

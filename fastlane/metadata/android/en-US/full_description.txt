@@ -1,0 +1,31 @@
+Block Games brings 17 different block puzzles and 20 board variants together in one app. Every game keeps its own progress, missions and achievements.
+
+• Block Puzzle Master: Place pieces on the board and clear full rows and columns.
+• Block Sudoku: Fill rows, columns and boxes on a 9x9 board.
+• Block Fill: Fill the shape completely with the pieces given.
+• Falling Blocks: Rotate falling pieces and complete rows.
+• Hex Blocks: Complete lines in three directions on a hex board.
+• Block Slide: Slide blocks to close the gaps.
+• Number Drop: Merge equal numbers and reach big tiles.
+• Hex Rain: Group falling hexagons and melt them.
+• Retro Console: Race, Snake, Shoot and Bricks on one screen.
+• Block Escape: Follow the arrows and clear the board in the right order.
+• Five-Block Fit: Cover the board with five-square pieces.
+• Color Doors: Send each block out through its own colored door.
+• Sand Blocks: Build color bridges with blocks that turn into sand.
+• Cube Master 3D: Complete the cube layer by layer.
+• Balance Tower: Take turns pulling blocks with a rival without toppling the tower.
+• Tilt Tray: Tilt the tray and melt matching colors together.
+• Area Split: Split the board into rectangles by the numbers.
+• Block Variety: 20 different boards and piece sets.
+
+Highlights
+• 50,000 to 100,000 levels per game, each checked by a solver.
+• Daily and weekly levels, missions, achievements and collectibles.
+• Hints and undo whenever you get stuck.
+• Symbol mode for color blindness, 33 languages, right-to-left support.
+• Plays offline. Works on phones, tablets and the web.
+• No account, birth date or personal data needed.
+• No gambling, games of chance or 18+ content.
+
+"Remove ads" and "Premium" purchases apply to every game in the app.
