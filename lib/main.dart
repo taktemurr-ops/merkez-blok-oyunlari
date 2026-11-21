@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:game_001_block_puzzle_master/game/game_config.dart' as blok_bulmaca;
 import 'package:oyun_blok_doldurma/oyun_blok_doldurma.dart';
+import 'package:oyun_altigen_blok/oyun_altigen_blok.dart';
+import 'package:oyun_blok_cesit_paketi/oyun_blok_cesit_paketi.dart';
+import 'package:oyun_blok_kaydirma/oyun_blok_kaydirma.dart';
 import 'package:oyun_blok_sudoku/oyun_blok_sudoku.dart';
 import 'package:oyun_dusen_bloklar/oyun_dusen_bloklar.dart';
 import 'package:studio_core/app/hub.dart';
@@ -19,7 +22,15 @@ final hubConfig = HubConfig(
   ],
   seedColor: const Color(0xFF3F51B5),
   icon: Icons.grid_view_rounded,
-  games: [blok_bulmaca.gameConfig, blokSudokuConfig, blokDoldurmaConfig, dusenBloklarConfig],
+  games: [
+    blok_bulmaca.gameConfig,
+    blokSudokuConfig,
+    blokDoldurmaConfig,
+    dusenBloklarConfig,
+    altigenBlokConfig,
+    blokKaydirmaConfig,
+  ],
+  groups: [blokCesitGroup],
 );
 
 void main() => bootstrapHub(hubConfig);

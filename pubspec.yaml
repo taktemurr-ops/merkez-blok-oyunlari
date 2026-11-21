@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f4c0d9146d4ba0b12d562541f327a04569462f94
+      ref: 6080e4b00e322e2191d0358100b4b48b4a1fc883
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 08121891528f07cd544af8959ee99a64ae02e401
+      ref: 6103cca590f3ccf07f9e0f3530929d555026d814
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
@@ -31,6 +31,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-dusen-bloklar
       ref: 8fbebd9c3ba54fbbcbeded65bdc522e17ea3728d
+  oyun_blok_cesit_paketi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blok-cesit-paketi
+      ref: 36622c3c7a501075c1c88cacdf15ede355ecd271
+  oyun_altigen_blok:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-altigen-blok
+      ref: 7b30c9ae1ead3c1db91fdd6f0bb1258f674dc234
+  oyun_blok_kaydirma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blok-kaydirma
+      ref: c21077c6dae48e0b8579d427e88296e77236655f
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -40,11 +52,16 @@ dependencies:
   in_app_purchase: ^3.2.0
 
 dependency_overrides:
+  # Blok motoru: bütün blok oyunları aynı sürümü kullansın.
+  game_001_block_puzzle_master:
+    git:
+      url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
+      ref: 6103cca590f3ccf07f9e0f3530929d555026d814
   # Tüm oyunlar aynı çekirdek sürümünü kullansın.
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f4c0d9146d4ba0b12d562541f327a04569462f94
+      ref: 6080e4b00e322e2191d0358100b4b48b4a1fc883
 
 dev_dependencies:
   flutter_test:
