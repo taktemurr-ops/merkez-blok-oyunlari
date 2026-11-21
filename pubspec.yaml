@@ -13,16 +13,20 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 9ecb1685661e81cee4c641f247afade9bd9f6f0a
+      ref: f4c0d9146d4ba0b12d562541f327a04569462f94
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 2f5d2d8e9c318932b359b66e61a3d31831ea3d06
+      ref: 08121891528f07cd544af8959ee99a64ae02e401
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
-      ref: main
+      ref: e062a975ef31e4607198eeb9026c42f9f679288e
+  oyun_blok_doldurma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blok-doldurma
+      ref: caf618275ca6b46263ad81dcc3acd34bb989bf1a
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -36,7 +40,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 9ecb1685661e81cee4c641f247afade9bd9f6f0a
+      ref: f4c0d9146d4ba0b12d562541f327a04569462f94
 
 dev_dependencies:
   flutter_test:
