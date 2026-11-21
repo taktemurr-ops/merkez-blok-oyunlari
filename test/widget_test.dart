@@ -10,6 +10,9 @@ void main() {
       'oyun-blok-kaydirma',
       'oyun-sayili-blok-dusurme',
       'oyun-altigen-dusen-bloklar',
+      'oyun-retro-tugla-konsolu',
+      'oyun-blok-kacisi',
+      'oyun-poliomino-yerlestirme',
     ]);
     expect(all.length, ids.length + 20);
     expect(all.toSet().length, all.length);

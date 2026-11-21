@@ -4,9 +4,12 @@ import 'package:oyun_blok_doldurma/oyun_blok_doldurma.dart';
 import 'package:oyun_altigen_blok/oyun_altigen_blok.dart';
 import 'package:oyun_altigen_dusen_bloklar/oyun_altigen_dusen_bloklar.dart';
 import 'package:oyun_blok_cesit_paketi/oyun_blok_cesit_paketi.dart';
+import 'package:oyun_blok_kacisi/oyun_blok_kacisi.dart';
 import 'package:oyun_blok_kaydirma/oyun_blok_kaydirma.dart';
 import 'package:oyun_blok_sudoku/oyun_blok_sudoku.dart';
 import 'package:oyun_dusen_bloklar/oyun_dusen_bloklar.dart';
+import 'package:oyun_poliomino_yerlestirme/oyun_poliomino_yerlestirme.dart';
+import 'package:oyun_retro_tugla_konsolu/oyun_retro_tugla_konsolu.dart';
 import 'package:oyun_sayili_blok_dusurme/oyun_sayili_blok_dusurme.dart';
 import 'package:studio_core/app/hub.dart';
 
@@ -33,6 +36,9 @@ final hubConfig = HubConfig(
     blokKaydirmaConfig,
     sayiliBlokConfig,
     altigenDusenConfig,
+    retroKonsolConfig,
+    blokKacisiConfig,
+    besliConfig,
   ],
   groups: [blokCesitGroup],
 );
