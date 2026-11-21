@@ -112,6 +112,27 @@ jobs:
   # phone, tablet and desktop browser can be tested without installing.
   # Needs Settings > Pages > Source = "GitHub Actions"; if Pages is off the
   # deploy is skipped without failing CI.
+  # Test APK: tek tıkla indirilebilen sabit bağlantı (GitHub hesabı gerekmez).
+  test-apk:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: merkez-blok-oyunlari-android
+      - name: Publish to the "test" release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cp flutter-apk/app-release.apk merkez-blok-oyunlari.apk 2>/dev/null || cp $(find . -name app-release.apk | head -1) merkez-blok-oyunlari.apk
+          gh release view test >/dev/null 2>&1 || gh release create test --prerelease --target "$GITHUB_SHA" --title "Test sürümü" --notes "Her başarılı derlemede güncellenir."
+          gh release upload test merkez-blok-oyunlari.apk --clobber
+          gh release edit test --notes "Test sürümü — derleme ${GITHUB_SHA::7}, $(date -u '+%Y-%m-%d %H:%M') UTC"
+
   pages:
     needs: build
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
