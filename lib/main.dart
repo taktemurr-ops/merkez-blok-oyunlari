@@ -8,7 +8,9 @@ import 'package:oyun_blok_cesit_paketi/oyun_blok_cesit_paketi.dart';
 import 'package:oyun_blok_kacisi/oyun_blok_kacisi.dart';
 import 'package:oyun_blok_kaydirma/oyun_blok_kaydirma.dart';
 import 'package:oyun_blok_kule_dengesi/oyun_blok_kule_dengesi.dart';
+import 'package:oyun_alan_bolme/oyun_alan_bolme.dart';
 import 'package:oyun_blok_sudoku/oyun_blok_sudoku.dart';
+import 'package:oyun_egim_kutusu/oyun_egim_kutusu.dart';
 import 'package:oyun_dusen_bloklar/oyun_dusen_bloklar.dart';
 import 'package:oyun_kum_bloklari/oyun_kum_bloklari.dart';
 import 'package:oyun_poliomino_yerlestirme/oyun_poliomino_yerlestirme.dart';
@@ -106,6 +108,8 @@ final hubConfig = HubConfig(
     kumBloklariConfig,
     kupBulmacaConfig,
     kuleDengesiConfig,
+    egimKutusuConfig,
+    alanBolmeConfig,
   ],
   groups: [blokCesitGroup],
 );
