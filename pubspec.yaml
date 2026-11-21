@@ -63,6 +63,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-poliomino-yerlestirme
       ref: 49c53acd400f92b653b205f20c89117c11950428
+  oyun_renkli_blok_cikisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-renkli-blok-cikisi
+      ref: e5436ae31e846a6c20cfe0f67f2deef3478fc7fa
+  oyun_kum_bloklari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kum-bloklari
+      ref: 591907533ab03b1e9922a70b36ee12770c98bd47
+  oyun_3b_kup_bulmaca:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-3b-kup-bulmaca
+      ref: 1c2dfca5cf34d21f35e850e1fe291717e6987296
+  oyun_blok_kule_dengesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blok-kule-dengesi
+      ref: 0b889be034917af20d36392746dde42f280cab88
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

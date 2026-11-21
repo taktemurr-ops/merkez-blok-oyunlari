@@ -13,6 +13,10 @@ void main() {
       'oyun-retro-tugla-konsolu',
       'oyun-blok-kacisi',
       'oyun-poliomino-yerlestirme',
+      'oyun-renkli-blok-cikisi',
+      'oyun-kum-bloklari',
+      'oyun-3b-kup-bulmaca',
+      'oyun-blok-kule-dengesi',
     ]);
     expect(all.length, ids.length + 20);
     expect(all.toSet().length, all.length);
