@@ -8,6 +8,8 @@ void main() {
     expect(ids, ['game-001-block-puzzle-master', 'oyun-blok-sudoku', 'oyun-blok-doldurma', 'oyun-dusen-bloklar',
       'oyun-altigen-blok',
       'oyun-blok-kaydirma',
+      'oyun-sayili-blok-dusurme',
+      'oyun-altigen-dusen-bloklar',
     ]);
     expect(all.length, ids.length + 20);
     expect(all.toSet().length, all.length);

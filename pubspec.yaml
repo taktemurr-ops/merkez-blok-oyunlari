@@ -43,6 +43,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kaydirma
       ref: c21077c6dae48e0b8579d427e88296e77236655f
+  oyun_sayili_blok_dusurme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sayili-blok-dusurme
+      ref: 30d44cca31b472bfbd1d201adebfd2825ead3929
+  oyun_altigen_dusen_bloklar:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-altigen-dusen-bloklar
+      ref: 8cebd1afcf9b386cc4c631643d38964237794cde
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

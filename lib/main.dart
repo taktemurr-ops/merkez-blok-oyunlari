@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:game_001_block_puzzle_master/game/game_config.dart' as blok_bulmaca;
 import 'package:oyun_blok_doldurma/oyun_blok_doldurma.dart';
 import 'package:oyun_altigen_blok/oyun_altigen_blok.dart';
+import 'package:oyun_altigen_dusen_bloklar/oyun_altigen_dusen_bloklar.dart';
 import 'package:oyun_blok_cesit_paketi/oyun_blok_cesit_paketi.dart';
 import 'package:oyun_blok_kaydirma/oyun_blok_kaydirma.dart';
 import 'package:oyun_blok_sudoku/oyun_blok_sudoku.dart';
 import 'package:oyun_dusen_bloklar/oyun_dusen_bloklar.dart';
+import 'package:oyun_sayili_blok_dusurme/oyun_sayili_blok_dusurme.dart';
 import 'package:studio_core/app/hub.dart';
 
 /// Blok Oyunları: aynı ailedeki blok oyunlarını tek uygulamada toplar.
@@ -29,6 +31,8 @@ final hubConfig = HubConfig(
     dusenBloklarConfig,
     altigenBlokConfig,
     blokKaydirmaConfig,
+    sayiliBlokConfig,
+    altigenDusenConfig,
   ],
   groups: [blokCesitGroup],
 );
