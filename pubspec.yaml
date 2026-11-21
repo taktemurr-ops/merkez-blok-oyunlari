@@ -13,72 +13,72 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 6080e4b00e322e2191d0358100b4b48b4a1fc883
+      ref: d10d0d583eb20bc598d3f596d20b93eb65e49102
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 6103cca590f3ccf07f9e0f3530929d555026d814
+      ref: 998bdf9511d629b281f78ba8284368de968dae98
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
-      ref: e062a975ef31e4607198eeb9026c42f9f679288e
+      ref: ffe69df7aac3f81d65d9c822e93558e09d0dbf03
   oyun_blok_doldurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-doldurma
-      ref: 21525661aadebcfb8413e2f0f3acc634f0a1346b
+      ref: 7dcf2d921c9cd6d1c7cc495704ac66c4d23262bc
   oyun_dusen_bloklar:
     git:
       url: https://github.com/taktemurr-ops/oyun-dusen-bloklar
-      ref: 8fbebd9c3ba54fbbcbeded65bdc522e17ea3728d
+      ref: efdc658145a3715db18991f481fd648499081f9f
   oyun_blok_cesit_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-cesit-paketi
-      ref: 36622c3c7a501075c1c88cacdf15ede355ecd271
+      ref: dd0ecf77f05f3d892e9f07390869e5189203a36b
   oyun_altigen_blok:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-blok
-      ref: 7b30c9ae1ead3c1db91fdd6f0bb1258f674dc234
+      ref: 30904433ec194a803f9f88b39b42829b49d67f04
   oyun_blok_kaydirma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kaydirma
-      ref: c21077c6dae48e0b8579d427e88296e77236655f
+      ref: 4dcd8f3e0a8a191719ecafb66b2a841a8993eca8
   oyun_sayili_blok_dusurme:
     git:
       url: https://github.com/taktemurr-ops/oyun-sayili-blok-dusurme
-      ref: 30d44cca31b472bfbd1d201adebfd2825ead3929
+      ref: 019bdf334960f388bf751c9544f919bafa559666
   oyun_altigen_dusen_bloklar:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-dusen-bloklar
-      ref: 8cebd1afcf9b386cc4c631643d38964237794cde
+      ref: deb1d5e1669a7c0c39e5607939e2b87258bc09d3
   oyun_retro_tugla_konsolu:
     git:
       url: https://github.com/taktemurr-ops/oyun-retro-tugla-konsolu
-      ref: 5c54e06d7db64391d0f640ba17a02e09faa710f8
+      ref: 2041fd140ec03d748933ed3f41c40e55747acbc6
   oyun_blok_kacisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kacisi
-      ref: 23846d5bd1fc80ff231018719e962d6b2610c99f
+      ref: 603ca0e69f20a794d941e6541306d90c4edf6dc4
   oyun_poliomino_yerlestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-poliomino-yerlestirme
-      ref: 49c53acd400f92b653b205f20c89117c11950428
+      ref: f1336cd55acdd7be25bb30421716e157d00b51cf
   oyun_renkli_blok_cikisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-renkli-blok-cikisi
-      ref: e5436ae31e846a6c20cfe0f67f2deef3478fc7fa
+      ref: ac87e5bb874f864c55be033e6ef325bd684bbe44
   oyun_kum_bloklari:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-bloklari
-      ref: 591907533ab03b1e9922a70b36ee12770c98bd47
+      ref: d40350c246ca30a12966e8b89c3ee88d1d1fb0fd
   oyun_3b_kup_bulmaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-3b-kup-bulmaca
-      ref: 1c2dfca5cf34d21f35e850e1fe291717e6987296
+      ref: 41ce8e7bacef962a8e0b5ce0a22f9476ae7a07c8
   oyun_blok_kule_dengesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kule-dengesi
-      ref: 0b889be034917af20d36392746dde42f280cab88
+      ref: da7e42300a8013140a0c7b7c9ab769de292cb9b5
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -91,17 +91,17 @@ dependency_overrides:
   oyun_blok_doldurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-doldurma
-      ref: 21525661aadebcfb8413e2f0f3acc634f0a1346b
+      ref: 7dcf2d921c9cd6d1c7cc495704ac66c4d23262bc
   # Blok motoru: bütün blok oyunları aynı sürümü kullansın.
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 6103cca590f3ccf07f9e0f3530929d555026d814
+      ref: 998bdf9511d629b281f78ba8284368de968dae98
   # Tüm oyunlar aynı çekirdek sürümünü kullansın.
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 6080e4b00e322e2191d0358100b4b48b4a1fc883
+      ref: d10d0d583eb20bc598d3f596d20b93eb65e49102
 
 dev_dependencies:
   flutter_test:
