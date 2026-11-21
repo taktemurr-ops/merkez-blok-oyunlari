@@ -27,6 +27,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-doldurma
       ref: caf618275ca6b46263ad81dcc3acd34bb989bf1a
+  oyun_dusen_bloklar:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dusen-bloklar
+      ref: 8fbebd9c3ba54fbbcbeded65bdc522e17ea3728d
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
