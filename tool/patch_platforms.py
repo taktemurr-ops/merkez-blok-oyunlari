@@ -20,8 +20,8 @@ import re
 APP_NAME = "Block Games"
 APP_NAME_TR = "Blok Oyunları"
 # Google's PUBLIC TEST AdMob app ids. Replace before publishing.
-ADMOB_ANDROID = os.environ.get("ADMOB_APP_ID_ANDROID", "ca-app-pub-3940256099942544~3347511713")
-ADMOB_IOS = os.environ.get("ADMOB_APP_ID_IOS", "ca-app-pub-3940256099942544~1458002511")
+ADMOB_ANDROID = os.environ.get("ADMOB_APP_ID_ANDROID") or "ca-app-pub-3940256099942544~3347511713"
+ADMOB_IOS = os.environ.get("ADMOB_APP_ID_IOS") or "ca-app-pub-3940256099942544~1458002511"
 
 
 def read(p):

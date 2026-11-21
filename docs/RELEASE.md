@@ -9,8 +9,7 @@ Kod tarafı hazır. Aşağıdakiler hesap/anahtar gerektirdiği için **sahibi t
 ## 2. AdMob
 1. AdMob'da bu oyun için Android ve iOS uygulaması oluştur.
 2. Bir geçiş (interstitial) ve bir ödüllü (rewarded) reklam birimi oluştur.
-3. `lib/app/ad_ids.dart` içindeki test kimliklerini gerçekleriyle değiştir.
-4. GitHub → Settings → Secrets: `ADMOB_APP_ID_ANDROID`, `ADMOB_APP_ID_IOS` ekle (CI otomatik yazar).
+3. GitHub → Settings → Secrets: `ADMOB_APP_ID_ANDROID`, `ADMOB_APP_ID_IOS`, `ADMOB_ANDROID_INTERSTITIAL`, `ADMOB_ANDROID_REWARDED` ekle. CI bunları derlemeye kendisi yazar; tanımlı değilse test reklamları kullanılır. Koda dokunmak gerekmez.
 5. AdMob → Gizlilik ve mesajlaşma: GDPR mesajını yayınla (uygulama UMP formunu otomatik gösterir).
 
 ## 3. Mağaza ürünleri (Play Console + App Store Connect)
@@ -26,7 +25,7 @@ Kod tarafı hazır. Aşağıdakiler hesap/anahtar gerektirdiği için **sahibi t
 Üretimde satın alma doğrulaması için bir sunucu (Google Play Developer API / App Store Server API) önerilir; kanca `lib/app/services/purchases_mobile.dart` → `_verify`.
 
 ## 4. İmzalama
-- Android: upload keystore oluştur; CI'da `ANDROID_KEYSTORE_PATH`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD` tanımla.
+- Android: yükleme anahtarı (upload keystore) oluştur ve GitHub → Settings → Secrets'a ekle: `ANDROID_KEYSTORE_BASE64` (jks dosyasının base64 hâli), `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD`. CI tanımlıysa sürümü bu anahtarla imzalar; değilse test anahtarıyla.
 - iOS: Apple Developer hesabı, sertifika ve provisioning profile; `fastlane/Fastfile` → `ios beta`.
 
 ## 5. Mağaza sayfası
