@@ -88,7 +88,7 @@ final hubConfig = HubConfig(
       'Câu đố khối trong một ứng dụng',
       'Mga block puzzle sa iisang app',
     ],
-  seedColor: const Color(0xFF3F51B5),
+  seedColor: const Color(0xFF1F5E8C),
   icon: Icons.grid_view_rounded,
   games: [
     blok_bulmaca.gameConfig,
