@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 6ced1b02b0432d0664a563c084fd9eb83f551366
+      ref: f18917c88989ecb298d02dcefc210504cb292afd
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
@@ -109,7 +109,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 6ced1b02b0432d0664a563c084fd9eb83f551366
+      ref: f18917c88989ecb298d02dcefc210504cb292afd
 
 dev_dependencies:
   flutter_test:
