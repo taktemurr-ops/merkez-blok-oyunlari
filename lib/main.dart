@@ -113,6 +113,26 @@ final hubConfig = HubConfig(
   ],
   starters: ['game-001-block-puzzle-master', 'oyun-blok-sudoku', 'oyun-dusen-bloklar'],
   groups: [blokCesitGroup],
+  covers: const {
+    'oyun-3b-kup-bulmaca': GameCover('cube'),
+    'oyun-alan-bolme': GameCover('blocks', v: 1),
+    'oyun-altigen-blok': GameCover('hexes'),
+    'oyun-altigen-dusen-bloklar': GameCover('hexes', v: 1),
+    'oyun-blok-cesit-paketi': GameCover('blocks', v: 3),
+    'oyun-blok-doldurma': GameCover('blocks', v: 1),
+    'oyun-blok-kacisi': GameCover('cars'),
+    'oyun-blok-kaydirma': GameCover('blocks', v: 2),
+    'oyun-blok-kule-dengesi': GameCover('blocks', v: 2),
+    'oyun-blok-sudoku': GameCover('blocks'),
+    'oyun-dusen-bloklar': GameCover('blocks', v: 2),
+    'oyun-egim-kutusu': GameCover('blocks', v: 2),
+    'oyun-kum-bloklari': GameCover('blocks', v: 1),
+    'oyun-poliomino-yerlestirme': GameCover('blocks'),
+    'oyun-renkli-blok-cikisi': GameCover('cars', v: 1),
+    'oyun-retro-tugla-konsolu': GameCover('blocks'),
+    'oyun-sayili-blok-dusurme': GameCover('blocks', v: 3),
+  },
+  defaultCover: const GameCover('blocks'),
 );
 
 void main() => bootstrapHub(hubConfig);
