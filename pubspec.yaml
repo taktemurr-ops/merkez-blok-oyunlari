@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 2d2c378fe4cf21ee7d7410a57db7cbc29bf328e1
+      ref: bb1aa584c8d81a285087afe2f1b3a4d312147c9c
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 5e8fae60a4e4926ace7cb125db5ea5d3802d1efc
+      ref: c14f00beea2ee67e0d764fe0e03f227514309ae2
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
@@ -38,7 +38,7 @@ dependencies:
   oyun_altigen_blok:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-blok
-      ref: 564c2645a02c0157af0967d9b7df959e212f3353
+      ref: 521ee18d8c93d03e312cdcb6602b749ecf2e5b08
   oyun_blok_kaydirma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kaydirma
@@ -104,12 +104,12 @@ dependency_overrides:
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 5e8fae60a4e4926ace7cb125db5ea5d3802d1efc
+      ref: c14f00beea2ee67e0d764fe0e03f227514309ae2
   # Tüm oyunlar aynı çekirdek sürümünü kullansın.
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 2d2c378fe4cf21ee7d7410a57db7cbc29bf328e1
+      ref: bb1aa584c8d81a285087afe2f1b3a4d312147c9c
 
 dev_dependencies:
   flutter_test:
