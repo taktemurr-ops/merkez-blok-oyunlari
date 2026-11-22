@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 31c950f2232763bc980cc1c4c8e2fd3d7b74e504
+      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
@@ -22,7 +22,7 @@ dependencies:
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
-      ref: 75646a0035d19a9a99314ddeee8a9fdecc2d8d12
+      ref: 70670b37771d044386be2800954e37447f7045b0
   oyun_blok_doldurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-doldurma
@@ -34,7 +34,7 @@ dependencies:
   oyun_blok_cesit_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-cesit-paketi
-      ref: 192da2a9c1a95698194383d3c33ebb8df8d8f010
+      ref: 433564347e87e1c95622a1191858d41a4aa976a1
   oyun_altigen_blok:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-blok
@@ -109,10 +109,14 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 31c950f2232763bc980cc1c4c8e2fd3d7b74e504
+      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
 
 dev_dependencies:
   flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
     sdk: flutter
   flutter_lints: ^5.0.0
   flutter_launcher_icons: ^0.14.1

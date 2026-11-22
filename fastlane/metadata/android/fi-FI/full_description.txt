@@ -1,0 +1,29 @@
+Palikkapelit kokoaa 17 erilaista palikkapulmaa ja 20 pelilautamuunnelmaa yhteen sovellukseen. Jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+
+• Palikkapulmamestari: Aseta palikoita, räjäytä rivejä!
+• Palikkasudoku: Täytä rivit, sarakkeet ja 3x3-ruudut!
+• Täytä muoto: Täytä muoto kaikilla paloilla!
+• Putoavat palikat: Aseta palat, tyhjennä rivit!
+• Kuusikulmiopalikat: Täydennä rivejä kolmeen suuntaan!
+• Palikkaliuku: Liu'uta, pudota, täydennä rivi!
+• Numeropudotus: Yhdistä samat luvut ja kasvata niitä!
+• Kuusikulmiosade: Pyöritä kuusikulmiota, yhdistä värit!
+• Retrokonsoli: 4 klassikkoa pistenäytöllä
+• Palikkapako: Löydä järjestys ja vie kaikki ulos!
+• Viitospulma: Täytä suorakulmio viiden ruudun paloilla!
+• Väriovet: Jokainen palikka oman värinsä ovesta!
+• Hiekkapalikat: Kaada hiekkaa, rakenna värisilta!
+• Kuutiomestari 3D: Käännä palat, kokoa kuutio!
+• Tasapainotorni: Vedä, pinoa ja anna vastustajan kaataa se!
+• Kallistuslaatikko: Kallista, yhdistä, sulata!
+• Pinta-alajako: Jaa numeroiden mukaan ja täytä lauta!
+• Palikkavalikoima: laudat ja palasarjat
+
+Kohokohdat
+• 50 000–100 000 tasoa per peli, ratkaisija tarkistaa jokaisen.
+• Vihjeet ja kumoaminen aina tarvittaessa.
+• Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
+• Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; sopii kaikenikäisille.
+
+Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

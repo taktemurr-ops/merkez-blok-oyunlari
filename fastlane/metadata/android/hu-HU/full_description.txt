@@ -1,0 +1,29 @@
+Blokkjátékok: 17 különböző blokkrejtvény és 20 táblaváltozat egy alkalmazásban. Minden játék saját haladást, küldetéseket és eredményeket tart.
+
+• Blokk-kirakó mester: Rakj blokkokat, robbants vonalakat!
+• Blokk-szudoku: Töltsd ki a sorokat, oszlopokat és 3x3-as mezőket!
+• Töltsd ki az alakot: Töltsd ki az alakot minden elemmel!
+• Hulló blokkok: Rakd le az elemeket, töröld a sorokat!
+• Hatszögblokkok: Teljesíts vonalakat három irányban!
+• Blokktolás: Told, ejtsd, töltsd ki a sort!
+• Számhullás: Olvaszd össze az egyforma számokat!
+• Hatszögeső: Forgasd a hatszöget, párosítsd a színeket!
+• Retró konzol: 4 klasszikus pontmátrixos kijelzőn
+• Blokkszökés: Találd meg a sorrendet, és vidd ki mindet!
+• Ötös illesztő: Töltsd ki a téglalapot ötmezős elemekkel!
+• Színes ajtók: Minden blokk a saját színe ajtaján!
+• Homokblokkok: Szórd a homokot, építs színes hidat!
+• Kockamester 3D: Forgasd az elemeket, rakd ki a kockát!
+• Egyensúlytorony: Húzz, rakd fel, és döntse le az ellenfél!
+• Billenődoboz: Billentsd, párosítsd, olvaszd!
+• Területosztó: Oszd fel a számok szerint, töltsd ki a táblát!
+• Blokkválogatás: táblák és elemkészletek
+
+Kiemelt
+• Játékonként 50 000–100 000 pálya, mindegyiket megoldó program ellenőrzi.
+• Tippek és visszavonás, amikor csak kell.
+• Napi és heti pályák, küldetések, eredmények és 33 nyelv.
+• Offline játszható telefonon, tableten és weben.
+• Nincs szerencsejáték, fogadás vagy 18+ tartalom; minden korosztálynak.
+
+A vásárlások (pl. reklámmentesség) az alkalmazás minden játékára érvényesek.

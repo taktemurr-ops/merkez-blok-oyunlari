@@ -1,0 +1,29 @@
+Pinagsasama ng Mga Larong Bloke ang 17 iba’t ibang block puzzle at 20 variant ng board sa iisang app. May sariling progreso, misyon at tagumpay ang bawat laro.
+
+• Dalubhasa sa Block Puzzle: Maglagay ng bloke, pasabugin ang linya!
+• Block Sudoku: Punuin ang hanay, kolum, at 3x3 na kahon!
+• Punuin ang Hugis: Punuin ang hugis gamit ang lahat ng piraso!
+• Nahuhulog na Bloke: Ilagay ang mga piraso, linisin ang mga hanay!
+• Hex Blocks: Kumpletuhin ang linya sa tatlong direksyon!
+• Pag-slide ng Bloke: I-slide, ihulog, kumpletuhin ang hanay!
+• Hulog ng Numero: Pagsamahin ang magkaparehong numero, palakihin!
+• Ulan ng Hexagon: Paikutin ang hexagon, pagtugmain ang kulay!
+• Retro Console: 4 klasiko sa dot na screen
+• Takas ng Bloke: Hanapin ang ayos, ilabas silang lahat!
+• Lima-Lima: Punuin ang parihaba ng limang-kahong piraso!
+• Mga Pintong May Kulay: Bawat bloke sa pinto ng sarili nitong kulay!
+• Mga Blokeng Buhangin: Ibuhos ang buhangin, gumawa ng tulay ng kulay!
+• Cube Master 3D: Paikutin ang mga piraso, kumpletuhin ang cube!
+• Tore ng Balanse: Hilahin, ipatong, at hayaang bumagsak sa kalaban!
+• Kahong Tagilid: Itagilid, ipares, tunawin!
+• Hati ng Lugar: Hatiin ayon sa numero, punuin ang board!
+• Sari-saring Bloke: mga board at set ng piraso
+
+Mga tampok
+• 50,000 hanggang 100,000 level bawat laro, bawat isa sinuri ng solver.
+• May hint at undo tuwing kailangan.
+• Araw-araw at lingguhang level, misyon, tagumpay at 33 wika.
+• Puwedeng laruin offline sa phone, tablet at web.
+• Walang sugal, pustahan o 18+ na nilalaman; angkop sa lahat ng edad.
+
+Ang mga binili (gaya ng walang ads) ay para sa lahat ng laro sa app.

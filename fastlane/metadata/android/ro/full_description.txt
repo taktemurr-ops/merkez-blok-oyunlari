@@ -1,0 +1,29 @@
+Jocuri cu Blocuri reunește 17 puzzle-uri cu blocuri diferite și 20 variante de tablă într-o aplicație. Fiecare joc are propriul progres, misiuni și realizări.
+
+• Maestrul Blocurilor: Pune blocuri, aruncă linii în aer!
+• Sudoku cu Blocuri: Umple rânduri, coloane și pătrate 3x3!
+• Umple Forma: Umple forma cu toate piesele!
+• Blocuri Căzătoare: Pune piesele, curăță rândurile!
+• Blocuri Hexagonale: Completează linii în trei direcții!
+• Glisează Blocurile: Glisează, lasă, completează rândul!
+• Ploaie de Numere: Unește numere egale, fă-le să crească!
+• Ploaie Hexagonală: Rotește hexagonul, potrivește culorile!
+• Consolă Retro: 4 clasice pe un ecran cu puncte
+• Evadarea Blocurilor: Găsește ordinea și scoate-le pe toate!
+• Potrivire de Cinci: Umple dreptunghiul cu piese de cinci!
+• Uși Colorate: Fiecare bloc pe ușa culorii lui!
+• Blocuri de Nisip: Toarnă nisipul, construiește un pod de culoare!
+• Maestrul Cubului 3D: Rotește piesele, completează cubul!
+• Turnul Echilibrului: Trage, stivuiește și lasă rivalul să-l dărâme!
+• Cutia Înclinată: Înclină, unește, topește!
+• Împărțirea Ariei: Împarte după numere și umple tabla!
+• Varietate de Blocuri: table și seturi de piese
+
+Puncte forte
+• Între 50.000 și 100.000 de niveluri pe joc, fiecare verificat de un rezolvitor.
+• Indicii și anulare oricând ai nevoie.
+• Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.
+• Se joacă offline pe telefon, tabletă și web.
+• Fără jocuri de noroc, pariuri sau conținut 18+; potrivit pentru toate vârstele.
+
+Achizițiile (de ex. fără reclame) se aplică tuturor jocurilor din aplicație.

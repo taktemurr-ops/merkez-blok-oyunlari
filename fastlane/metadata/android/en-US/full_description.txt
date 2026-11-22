@@ -1,31 +1,29 @@
 Block Games brings 17 different block puzzles and 20 board variants together in one app. Every game keeps its own progress, missions and achievements.
 
-• Block Puzzle Master: Place pieces on the board and clear full rows and columns.
-• Block Sudoku: Fill rows, columns and boxes on a 9x9 board.
-• Block Fill: Fill the shape completely with the pieces given.
-• Falling Blocks: Rotate falling pieces and complete rows.
-• Hex Blocks: Complete lines in three directions on a hex board.
-• Block Slide: Slide blocks to close the gaps.
-• Number Drop: Merge equal numbers and reach big tiles.
-• Hex Rain: Group falling hexagons and melt them.
-• Retro Console: Race, Snake, Shoot and Bricks on one screen.
-• Block Escape: Follow the arrows and clear the board in the right order.
-• Five-Block Fit: Cover the board with five-square pieces.
-• Color Doors: Send each block out through its own colored door.
-• Sand Blocks: Build color bridges with blocks that turn into sand.
-• Cube Master 3D: Complete the cube layer by layer.
-• Balance Tower: Take turns pulling blocks with a rival without toppling the tower.
-• Tilt Tray: Tilt the tray and melt matching colors together.
-• Area Split: Split the board into rectangles by the numbers.
-• Block Variety: 20 different boards and piece sets.
+• Block Puzzle Master: Place blocks, blast lines!
+• Block Sudoku: Fill rows, columns and 3x3 boxes!
+• Block Fill: Fill the shape with every piece!
+• Falling Blocks: Place the pieces, clear the lines!
+• Hex Blocks: Complete lines in three directions!
+• Block Slide: Slide, drop, complete the row!
+• Number Drop: Merge equal numbers, grow them!
+• Hex Rain: Spin the hexagon, match the colors!
+• Retro Console: 4 classics on a dot screen
+• Block Escape: Find the order, clear them all!
+• Five-Block Fit: Fill the rectangle with five-cell pieces!
+• Color Doors: Every block through its own color door!
+• Sand Blocks: Pour the sand, build a color bridge!
+• Cube Master 3D: Turn the pieces, complete the cube!
+• Balance Tower: Pull, stack, and let your rival topple it!
+• Tilt Tray: Tilt, match, melt!
+• Area Split: Split by the numbers, fill the board!
+• Block Variety: boards and piece sets
 
 Highlights
 • 50,000 to 100,000 levels per game, each checked by a solver.
-• Daily and weekly levels, missions, achievements and collectibles.
-• Hints and undo whenever you get stuck.
-• Symbol mode for color blindness, 33 languages, right-to-left support.
-• Plays offline. Works on phones, tablets and the web.
-• No account, birth date or personal data needed.
-• No gambling, games of chance or 18+ content.
+• Hints and undo whenever you need them.
+• Daily and weekly levels, missions, achievements and 33 languages.
+• Plays offline on phones, tablets and the web.
+• No gambling, betting or 18+ content; suitable for all ages.
 
-"Remove ads" and "Premium" purchases apply to every game in the app.
+Purchases (such as removing ads) apply to every game in the app.

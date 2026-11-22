@@ -1,1 +1,1 @@
-17 blok oyunu tek uygulamada: yerleştir, kaydır, erit, böl. İnternetsiz!
+17 blok bulmacası tek uygulamada: yerleştir, kaydır, erit, böl. İnternetsiz!
