@@ -20,7 +20,7 @@ Blokové hry spojuje 17 různých blokových hlavolamů a 20 variant hrací ploc
 • Kostkový mix: desky a sady dílků
 
 Hlavní přednosti
-• 50 000 až 100 000 úrovní v každé hře, každou ověřuje řešič.
+• 100 000 úrovní v každé hře, každou ověřuje řešič.
 • Nápovědy a krok zpět, kdykoli je potřebujete.
 • Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.
 • Hraje se offline na telefonu, tabletu i na webu.

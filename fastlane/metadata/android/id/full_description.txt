@@ -20,7 +20,7 @@ Game Balok menghadirkan 17 teka-teki balok berbeda dan 20 varian papan dalam sat
 • Aneka Balok: papan dan set keping
 
 Sorotan
-• 50.000 hingga 100.000 level per permainan, masing-masing diperiksa oleh pemecah.
+• 100.000 level per permainan, masing-masing diperiksa oleh pemecah.
 • Petunjuk dan urungkan kapan pun dibutuhkan.
 • Level harian dan mingguan, misi, pencapaian, dan 33 bahasa.
 • Bisa dimainkan offline di ponsel, tablet, dan web.

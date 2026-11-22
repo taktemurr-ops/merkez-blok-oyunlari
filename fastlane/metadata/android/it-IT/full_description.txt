@@ -20,7 +20,7 @@ Giochi di Blocchi riunisce 17 rompicapi a blocchi diversi e 20 varianti di tabel
 • Varietà di Blocchi: tabelloni e set di pezzi
 
 In evidenza
-• Da 50.000 a 100.000 livelli per gioco, ognuno verificato da un risolutore.
+• Da 100.000 livelli per gioco, ognuno verificato da un risolutore.
 • Suggerimenti e annulla ogni volta che servono.
 • Livelli giornalieri e settimanali, missioni, obiettivi e 33 lingue.
 • Si gioca offline su telefono, tablet e web.

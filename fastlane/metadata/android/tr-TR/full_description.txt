@@ -20,7 +20,7 @@ Blok Oyunları, 17 farklı blok bulmacasını ve 20 tahta çeşidini tek uygulam
 • Blok Çeşitleri: tahta ve parça çeşidi
 
 Öne çıkanlar
-• Oyun başına 50.000–100.000 bölüm, her biri çözücüyle denetlenir.
+• Oyun başına 100.000 bölüm, her biri çözücüyle denetlenir.
 • İpucu ve geri al her zaman elinizin altında.
 • Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.
 • İnternetsiz oynanır; telefon, tablet ve webde çalışır.

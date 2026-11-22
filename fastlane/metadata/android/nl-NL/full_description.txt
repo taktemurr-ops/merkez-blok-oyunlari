@@ -20,7 +20,7 @@ Blokspellen bundelt 17 verschillende blokpuzzels en 20 bordvarianten in één ap
 • Blokvariatie: borden en stukkensets
 
 Hoogtepunten
-• 50.000 tot 100.000 levels per spel, elk gecontroleerd door een oplosser.
+• 100.000 levels per spel, elk gecontroleerd door een oplosser.
 • Hints en ongedaan maken wanneer je ze nodig hebt.
 • Dagelijkse en wekelijkse levels, opdrachten, prestaties en 33 talen.
 • Offline speelbaar op telefoon, tablet en web.

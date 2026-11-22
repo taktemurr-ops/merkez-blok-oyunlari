@@ -20,7 +20,7 @@ Palikkapelit kokoaa 17 erilaista palikkapulmaa ja 20 pelilautamuunnelmaa yhteen 
 • Palikkavalikoima: laudat ja palasarjat
 
 Kohokohdat
-• 50 000–100 000 tasoa per peli, ratkaisija tarkistaa jokaisen.
+• 100 000 tasoa per peli, ratkaisija tarkistaa jokaisen.
 • Vihjeet ja kumoaminen aina tarvittaessa.
 • Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
 • Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.

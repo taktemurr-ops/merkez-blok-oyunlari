@@ -20,7 +20,7 @@ Blokspil samler 17 forskellige blokgåder og 20 brætvarianter i én app. Hvert 
 • Blokvariation: brætter og briksæt
 
 Højdepunkter
-• 50.000 til 100.000 baner pr. spil, hver tjekket af en løser.
+• 100.000 baner pr. spil, hver tjekket af en løser.
 • Hints og fortryd, når du har brug for det.
 • Daglige og ugentlige baner, opgaver, præstationer og 33 sprog.
 • Kan spilles offline på telefon, tablet og web.

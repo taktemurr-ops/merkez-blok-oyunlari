@@ -20,7 +20,7 @@ Block Games brings 17 different block puzzles and 20 board variants together in 
 • Block Variety: boards and piece sets
 
 Highlights
-• 50,000 to 100,000 levels per game, each checked by a solver.
+• 100,000 levels per game, each checked by a solver.
 • Hints and undo whenever you need them.
 • Daily and weekly levels, missions, achievements and 33 languages.
 • Plays offline on phones, tablets and the web.

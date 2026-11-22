@@ -20,7 +20,7 @@ Pinagsasama ng Mga Larong Bloke ang 17 iba’t ibang block puzzle at 20 variant 
 • Sari-saring Bloke: mga board at set ng piraso
 
 Mga tampok
-• 50,000 hanggang 100,000 level bawat laro, bawat isa sinuri ng solver.
+• 100,000 level bawat laro, bawat isa sinuri ng solver.
 • May hint at undo tuwing kailangan.
 • Araw-araw at lingguhang level, misyon, tagumpay at 33 wika.
 • Puwedeng laruin offline sa phone, tablet at web.

@@ -20,7 +20,7 @@ Blockspel samlar 17 olika blockpussel och 20 brädvarianter i en app. Varje spel
 • Blockvariation: brädor och bituppsättningar
 
 Höjdpunkter
-• 50 000 till 100 000 nivåer per spel, varje nivå kontrollerad av en lösare.
+• 100 000 nivåer per spel, varje nivå kontrollerad av en lösare.
 • Ledtrådar och ångra när du behöver dem.
 • Dagliga och veckovisa nivåer, uppdrag, prestationer och 33 språk.
 • Spelas offline på mobil, surfplatta och webb.

@@ -20,7 +20,7 @@ Jogos de Blocos reúne 17 quebra-cabeças de blocos diferentes e 20 variantes de
 • Variedade de Blocos: tabuleiros e peças
 
 Destaques
-• De 50.000 a 100.000 fases por jogo, cada uma verificada por um resolvedor.
+• De 100.000 fases por jogo, cada uma verificada por um resolvedor.
 • Dicas e desfazer sempre que precisar.
 • Níveis diários e semanais, missões, conquistas e 33 idiomas.
 • Funciona offline no celular, tablet e web.

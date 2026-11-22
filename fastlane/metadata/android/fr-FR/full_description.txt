@@ -20,7 +20,7 @@ Jeux de Blocs réunit 17 casse-têtes de blocs et 20 variantes de plateau dans u
 • Variété de Blocs: plateaux et pièces
 
 Points forts
-• De 50 000 à 100 000 niveaux par jeu, chacun vérifié par un solveur.
+• De 100 000 niveaux par jeu, chacun vérifié par un solveur.
 • Indices et annulation dès que vous en avez besoin.
 • Niveaux quotidiens et hebdomadaires, missions, succès et 33 langues.
 • Hors ligne sur téléphone, tablette et web.

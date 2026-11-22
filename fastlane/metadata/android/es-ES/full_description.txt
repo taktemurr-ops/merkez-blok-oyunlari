@@ -20,7 +20,7 @@ Juegos de Bloques reúne 17 puzles de bloques distintos y 20 variantes de tabler
 • Variedad de Bloques: tableros y piezas
 
 Lo más destacado
-• De 50.000 a 100.000 niveles por juego, cada uno comprobado por un solucionador.
+• De 100.000 niveles por juego, cada uno comprobado por un solucionador.
 • Pistas y deshacer siempre que los necesites.
 • Niveles diarios y semanales, misiones, logros y 33 idiomas.
 • Se juega sin conexión en móvil, tableta y web.
