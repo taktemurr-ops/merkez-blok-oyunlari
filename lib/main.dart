@@ -111,6 +111,7 @@ final hubConfig = HubConfig(
     egimKutusuConfig,
     alanBolmeConfig,
   ],
+  starters: ['game-001-block-puzzle-master', 'oyun-blok-sudoku', 'oyun-dusen-bloklar'],
   groups: [blokCesitGroup],
 );
 
