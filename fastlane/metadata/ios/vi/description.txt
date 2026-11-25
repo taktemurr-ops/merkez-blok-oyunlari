@@ -1,0 +1,29 @@
+Trò Chơi Khối tập hợp 17 trò xếp khối khác nhau và 20 biến thể bàn chơi trong một ứng dụng. Mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
+
+• Bậc Thầy Xếp Khối: Đặt khối, nổ hàng!
+• Sudoku Khối: Lấp đầy hàng, cột và ô 3x3!
+• Lấp Đầy Hình: Lấp đầy hình bằng mọi mảnh!
+• Khối Rơi: Đặt mảnh, xóa hàng!
+• Khối Lục Giác: Hoàn thành hàng theo ba hướng!
+• Trượt Khối: Trượt, thả, lấp đầy hàng!
+• Thả Số: Gộp số giống nhau, làm chúng lớn lên!
+• Mưa Lục Giác: Xoay lục giác, ghép màu!
+• Máy Chơi Game Cổ: 4 trò cổ điển trên màn hình chấm
+• Khối Thoát Hiểm: Tìm thứ tự, đưa hết ra ngoài!
+• Xếp Mảnh Năm: Lấp hình chữ nhật bằng mảnh năm ô!
+• Cửa Màu: Mỗi khối qua cửa cùng màu!
+• Khối Cát: Đổ cát, xây cầu màu!
+• Bậc Thầy Khối Lập Phương 3D: Xoay mảnh, hoàn thành khối lập phương!
+• Tháp Cân Bằng: Rút, xếp lên và để đối thủ làm đổ!
+• Hộp Nghiêng: Nghiêng, ghép, làm tan!
+• Chia Diện Tích: Chia theo con số, lấp đầy bàn!
+• Khối Muôn Kiểu: bàn và bộ mảnh
+
+Điểm nổi bật
+• 100.000 màn mỗi trò, màn nào cũng được bộ giải kiểm tra.
+• Gợi ý và hoàn tác bất cứ khi nào cần.
+• Màn hằng ngày và hằng tuần, nhiệm vụ, thành tích và 33 ngôn ngữ.
+• Chơi ngoại tuyến trên điện thoại, máy tính bảng và web.
+• Không cờ bạc, cá cược hay nội dung 18+; phù hợp mọi lứa tuổi.
+
+Mua hàng (như bỏ quảng cáo) áp dụng cho mọi trò trong ứng dụng.

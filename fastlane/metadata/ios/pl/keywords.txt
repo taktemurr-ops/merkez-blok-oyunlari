@@ -1,0 +1,1 @@
+mistrz,klocków,sudoku,wypełnij,kształt,spadające,sześciokątne,przesuwanie,bloków,liczby,sześciokątny

@@ -1,0 +1,1 @@
+mestre,sudoku,preencha,forma,que,caem,hexagonais,deslize,queda,números,chuva,hexagonal,console,retrô

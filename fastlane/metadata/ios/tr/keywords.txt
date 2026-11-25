@@ -1,1 +1,1 @@
-blok,bulmaca,tetris,puzzle,zeka,patlat,klasik,offline
+bulmaca,ustası,sudoku,doldurma,düşen,bloklar,altıgen,kaydırma,sayılı,yağmuru,retro,konsol,kaçışı,kum

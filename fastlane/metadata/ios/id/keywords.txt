@@ -1,0 +1,1 @@
+master,puzzle,sudoku,isi,bentuknya,jatuh,heksagon,geser,angka,hujan,konsol,retro,kabur,susun,lima

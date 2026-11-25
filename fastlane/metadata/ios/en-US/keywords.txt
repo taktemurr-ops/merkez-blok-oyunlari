@@ -1,1 +1,1 @@
-block,puzzle,blast,brain,classic,offline,grid,combo
+puzzle,master,sudoku,fill,falling,hex,slide,number,drop,rain,retro,console,escape,five,fit,color

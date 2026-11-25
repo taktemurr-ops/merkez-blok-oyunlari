@@ -1,7 +1,29 @@
-Blok Oyunları, en sevilen blok bulmacalarını tek uygulamada toplar.
+Blok Oyunları, 17 farklı blok bulmacasını ve 20 tahta çeşidini tek uygulamada toplar. Her oyunun kendi kayıtları, görevleri ve başarımları vardır.
 
-• Blok Bulmaca: Parçaları 8x8 ya da 10x10 tahtaya yerleştir, dolu satır ve sütunları patlat.
-• Blok Sudoku: 9x9 tahtada satır, sütun ve 3x3 kutuları doldur.
+• Blok Bulmaca Ustası: Blokları yerleştir, satırları patlat!
+• Blok Sudoku: Satır, sütun ve 3x3 kutuları doldur!
+• Blok Doldurma: Şekli parçalarla eksiksiz doldur!
+• Düşen Bloklar: Parçaları yerleştir, sıraları temizle!
+• Altıgen Blok: Üç yönde sıra tamamla!
+• Blok Kaydırma: Kaydır, düşür, sırayı tamamla!
+• Sayılı Bloklar: Aynı sayıları birleştir, büyüt!
+• Altıgen Yağmuru: Altıgeni döndür, renkleri buluştur!
+• Retro Konsol: Nokta ekranda 4 klasik oyun
+• Blok Kaçışı: Sırayı bul, hepsini çıkar!
+• Beşli Yerleştirme: Beşli parçalarla dikdörtgeni doldur!
+• Renkli Kapılar: Her blok kendi renginin kapısından!
+• Kum Blokları: Kumu akıt, renk köprüsü kur!
+• Küp Ustası: Parçaları döndür, küpü tamamla!
+• Denge Kulesi: Blok çek, tepeye koy, kuleyi rakibine yıktır!
+• Eğim Kutusu: Eğ, buluştur, erit!
+• Alan Bölme: Sayıya göre böl, tahtayı doldur!
+• Blok Çeşitleri: tahta ve parça çeşidi
 
-Her oyunda on binlerce bölüm, günlük ve haftalık görevler, sonsuz, zamana karşı ve rahat (zen) modlar vardır.
-İnternetsiz oynanır. Telefon, tablet ve webde çalışır. Kumar veya şans oyunu içermez.
+Öne çıkanlar
+• Oyun başına 100.000 bölüm, her biri çözücüyle denetlenir.
+• İpucu ve geri al her zaman elinizin altında.
+• Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.
+• İnternetsiz oynanır; telefon, tablet ve webde çalışır.
+• Kumar, bahis veya 18+ içerik yoktur; tüm yaşlar için uygundur.
+
+Satın alımlar (ör. reklamsız) uygulamadaki tüm oyunlarda geçerlidir.

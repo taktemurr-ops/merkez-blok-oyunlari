@@ -1,0 +1,29 @@
+Jeux de Blocs réunit 17 casse-têtes de blocs et 20 variantes de plateau dans une app. Chaque jeu garde sa progression, ses missions et ses succès.
+
+• Maître des Blocs: Placez les blocs, explosez les lignes !
+• Sudoku Blocs: Remplissez lignes, colonnes et carrés 3x3 !
+• Remplis les Blocs: Remplissez la forme avec toutes les pièces !
+• Blocs qui Tombent: Placez les pièces, videz les lignes !
+• Blocs Hexagonaux: Complétez des lignes dans trois directions !
+• Glisse Blocs: Glissez, laissez tomber, complétez la ligne !
+• Chute de Nombres: Fusionnez les nombres égaux !
+• Pluie Hexagonale: Tournez l'hexagone, associez les couleurs !
+• Console Rétro: 4 classiques sur écran à points
+• Évasion de Blocs: Trouvez le bon ordre !
+• Casse-tête à Cinq: Remplissez le rectangle avec des pièces de cinq !
+• Portes Colorées: Chaque bloc par sa porte de couleur !
+• Blocs de Sable: Versez le sable, créez un pont de couleur !
+• Maître du Cube: Tournez les pièces, complétez le cube !
+• Tour d'Équilibre: Tirez, empilez, faites tomber l'adversaire !
+• Boîte Penchée: Penchez, réunissez, faites fondre !
+• Partage d'Aires: Découpez selon les nombres, remplissez le plateau !
+• Variété de Blocs: plateaux et pièces
+
+Points forts
+• De 100 000 niveaux par jeu, chacun vérifié par un solveur.
+• Indices et annulation dès que vous en avez besoin.
+• Niveaux quotidiens et hebdomadaires, missions, succès et 33 langues.
+• Hors ligne sur téléphone, tablette et web.
+• Ni jeu d’argent, ni pari, ni contenu 18+ ; adapté à tous les âges.
+
+Les achats (comme supprimer les pubs) valent pour tous les jeux de l'appli.

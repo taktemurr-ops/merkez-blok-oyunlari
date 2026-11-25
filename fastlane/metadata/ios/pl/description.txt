@@ -1,0 +1,29 @@
+Gry Blokowe łączy 17 różnych łamigłówek z klockami i 20 odmian planszy w jednej aplikacji. Każda gra ma własne postępy, zadania i osiągnięcia.
+
+• Mistrz Klocków: Stawiaj klocki, rozbijaj linie!
+• Sudoku z Klocków: Wypełniaj rzędy, kolumny i pola 3x3!
+• Wypełnij Kształt: Wypełnij kształt wszystkimi klockami!
+• Spadające Bloki: Układaj klocki, czyść rzędy!
+• Sześciokątne Bloki: Układaj linie w trzech kierunkach!
+• Przesuwanie Bloków: Przesuwaj, upuszczaj, wypełniaj rząd!
+• Spadające Liczby: Łącz równe liczby, niech rosną!
+• Sześciokątny Deszcz: Obracaj sześciokąt, łącz kolory!
+• Konsola Retro: 4 klasyki na ekranie z kropek
+• Ucieczka Bloków: Znajdź kolejność i usuń wszystkie!
+• Piątki: Wypełnij prostokąt klockami z pięciu pól!
+• Kolorowe Drzwi: Każdy blok przez drzwi swojego koloru!
+• Piaskowe Bloki: Sypnij piasek, zbuduj kolorowy most!
+• Mistrz Kostki 3D: Obracaj klocki, ułóż kostkę!
+• Wieża Równowagi: Wyciągaj, układaj i niech przewróci się u rywala!
+• Przechylna Skrzynka: Przechyl, połącz, roztop!
+• Podział Pól: Dziel według liczb i wypełnij planszę!
+• Klockowa Rozmaitość: plansze i zestawy klocków
+
+Najważniejsze
+• Od 100 000 poziomów w każdej grze, każdy sprawdzony przez solver.
+• Podpowiedzi i cofanie, kiedy tylko ich potrzebujesz.
+• Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.
+• Gra offline na telefonie, tablecie i w przeglądarce.
+• Bez hazardu, zakładów i treści 18+; dla każdego wieku.
+
+Zakupy (np. brak reklam) obowiązują we wszystkich grach w aplikacji.
