@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
+      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
   # Merkezdeki oyunlar (her biri kendi deposunda)
   game_001_block_puzzle_master:
     git:
@@ -22,7 +22,7 @@ dependencies:
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
-      ref: 70670b37771d044386be2800954e37447f7045b0
+      ref: d9f091c3e9fd676721578a835d2d104adcdac389
   oyun_blok_doldurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-doldurma
@@ -30,11 +30,11 @@ dependencies:
   oyun_dusen_bloklar:
     git:
       url: https://github.com/taktemurr-ops/oyun-dusen-bloklar
-      ref: 843324a159bf1a41876f25f58f03e4f5f75bf23e
+      ref: 6264e0d363d0b31485be6c76b0fc2cb7c8f46623
   oyun_blok_cesit_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-cesit-paketi
-      ref: 433564347e87e1c95622a1191858d41a4aa976a1
+      ref: dbcf024c1da77bfeeb85d531248de6b9f91a84c6
   oyun_altigen_blok:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-blok
@@ -42,39 +42,39 @@ dependencies:
   oyun_blok_kaydirma:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kaydirma
-      ref: de072b7af568dc25ccbe8aa30a87c54edf81085f
+      ref: 785389ff9a08aca1e7edd4e4058be82292a4ee1a
   oyun_sayili_blok_dusurme:
     git:
       url: https://github.com/taktemurr-ops/oyun-sayili-blok-dusurme
-      ref: 5c19e202a8cc912096157eeb885e77fdcf9a8be2
+      ref: 908f9797a8a76579b969a9459402169b21555e79
   oyun_altigen_dusen_bloklar:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-dusen-bloklar
-      ref: 39b708e67e5b37d037002c758e90cb62759e73f0
+      ref: 1b75ab187d891c2eb40cfd3b7e241d6adc9cc59f
   oyun_retro_tugla_konsolu:
     git:
       url: https://github.com/taktemurr-ops/oyun-retro-tugla-konsolu
-      ref: 07c734fc8ef92acdc4d15e39efb764a08c22253a
+      ref: bb14c7196b1df44c764f06f908cfc6d131bd1119
   oyun_blok_kacisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kacisi
-      ref: 0456a195ffdcdfc98232611e0ea07570644be8b5
+      ref: 47e2179abbca8c3ecb42fb1b1a3a237bbcd503e1
   oyun_poliomino_yerlestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-poliomino-yerlestirme
-      ref: ecf191cbc1562ec8cf48535c93c53b142b92e337
+      ref: 579368a47621868f4751485038dec2416d593773
   oyun_renkli_blok_cikisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-renkli-blok-cikisi
-      ref: 81e9fbc9a5aae12ff66a2d29ca8ad1443df5e046
+      ref: 98258ee3347966d7fd31e8327a2e0b7f04fa2387
   oyun_kum_bloklari:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-bloklari
-      ref: 37c7749a7c5a12c5ce6e5c3da8a4bbd1b8247dc2
+      ref: 8b57055d40d2efeee4e33493595e121d84ddeee2
   oyun_3b_kup_bulmaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-3b-kup-bulmaca
-      ref: 6d018c8b2e5dbfb5b0d333f414495128fcc53aa1
+      ref: afa4b92a5e368c7fa5265224c7950be878ba3221
   oyun_blok_kule_dengesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-kule-dengesi
@@ -109,7 +109,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
+      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
 
 dev_dependencies:
   flutter_test:
