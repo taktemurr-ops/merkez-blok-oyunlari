@@ -17,7 +17,10 @@ import 'package:oyun_poliomino_yerlestirme/oyun_poliomino_yerlestirme.dart';
 import 'package:oyun_renkli_blok_cikisi/oyun_renkli_blok_cikisi.dart';
 import 'package:oyun_retro_tugla_konsolu/oyun_retro_tugla_konsolu.dart';
 import 'package:oyun_sayili_blok_dusurme/oyun_sayili_blok_dusurme.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Blok Oyunları: aynı ailedeki blok oyunlarını tek uygulamada toplar.
 /// Her oyunun kaydı ve ilerlemesi ayrıdır.
@@ -285,4 +288,4 @@ final hubConfig = HubConfig(
   defaultCover: const GameCover('blocks'),
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);
