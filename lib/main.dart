@@ -288,4 +288,7 @@ final hubConfig = HubConfig(
   defaultCover: const GameCover('blocks'),
 );
 
-void main() => bootstrapApprovedHub(hubConfig, approvedStyle);
+/// Uygulama içi gizlilik politikası (Ayarlar → Gizlilik politikası). Mağaza kayıtlarında da aynı adres.
+const privacyUrl = 'https://github.com/taktemurr-ops/merkez-blok-oyunlari/blob/main/PRIVACY.md';
+
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
