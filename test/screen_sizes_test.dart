@@ -65,42 +65,49 @@ void main() {
     final s = (await tester.runAsync(_services))!;
     await sweep(tester, issues, 'merkez', skip: _skip, screens: _gameScreens,
         langScales: const [('tr', 1.0), ('tr', 1.3), ('ar', 1.3)], (lang) async {
-      await tester.pumpWidget(MaterialApp(
+      await tester.pumpWidget(fresh(MaterialApp(
         home: ApprovedHubShell(hub: hub.hubConfig, style: look.approvedStyle, services: s, lang: lang),
-      ));
+      )));
     });
     expect(issues.items.where((i) => i.startsWith('SORUN|merkez|')).toList(), isEmpty);
   }, timeout: const Timeout(Duration(minutes: 10)));
 
   for (final g in hub.hubConfig.allGames) {
     testWidgets('açılış ekranları tüm boyutlarda: ${g.gameId}', (tester) async {
-      final s = (await tester.runAsync(_services))!;
-      final st = (await tester.runAsync(() => s.stateFor(g)))!;
-      st.startup = null;
-      st.save.ageGateDone = true;
-      if (st.save.adConsent.isEmpty) st.save.adConsent = 'denied';
-      st.save.stats['tutorial_seen'] = 1;
-      Widget app() => StudioLookScope(
-            look: look.approvedStyle.look,
-            child: ProviderScope(overrides: [appStateProvider.overrideWith((ref) => st)], child: GameApp(state: st)),
+      // Her tarama kendi durumunu kullanır (ağaç kaldırılınca durum kapanır).
+      Future<AppState> newState() async {
+        final s = (await tester.runAsync(_services))!;
+        final st = (await tester.runAsync(() => s.stateFor(g)))!;
+        st.startup = null;
+        st.save.ageGateDone = true;
+        if (st.save.adConsent.isEmpty) st.save.adConsent = 'denied';
+        st.save.stats['tutorial_seen'] = 1;
+        return st;
+      }
+
+      Widget app(AppState st) => ProviderScope(
+            overrides: [appStateProvider.overrideWith((ref) => st)],
+            child: fresh(StudioLookScope(look: look.approvedStyle.look, child: GameApp(state: st))),
           );
       // Oyunun ana sayfası (ortak ekran; uzun adlar için küçük ekranlar yeter).
+      final st1 = await newState();
       await sweep(tester, issues, '${g.gameId}/ana', skip: _skip,
           screens: [kScreens[0], kScreens[5], kScreens[8]],
           langScales: const [('tr', 1.3), ('ar', 1.3)], (lang) async {
-        st.save.language = lang;
-        await tester.pumpWidget(app());
+        st1.save.language = lang;
+        await tester.pumpWidget(app(st1));
       });
       // İlk bölüm: motorun oyun ekranı.
+      final st2 = await newState();
       await sweep(tester, issues, '${g.gameId}/oyun', skip: _skip, screens: _gameScreens,
           langScales: const [('tr', 1.3), ('ar', 1.3)], settleMs: 600, (lang) async {
-        st.save.language = lang;
-        await tester.pumpWidget(app());
+        st2.save.language = lang;
+        await tester.pumpWidget(app(st2));
         await tester.pump(const Duration(milliseconds: 100));
         final home = find.byType(HomeScreen);
         if (home.evaluate().isEmpty) return;
         Navigator.of(tester.element(home), rootNavigator: true)
-            .push(MaterialPageRoute<void>(builder: (_) => PlayScreen(spec: st.session.planner.spec(1))));
+            .push(MaterialPageRoute<void>(builder: (_) => PlayScreen(spec: st2.session.planner.spec(1))));
         for (var i = 0; i < 6; i++) {
           await tester.pump(const Duration(milliseconds: 100));
         }

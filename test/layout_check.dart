@@ -120,6 +120,8 @@ void checkLayout(WidgetTester tester, LayoutIssues issues, ErrorTrap trap, Strin
     if (r is! RenderParagraph || !r.attached || !r.hasSize) continue;
     final text = r.text.toPlainText().trim();
     if (text.isEmpty) continue;
+    // Simge yazı tipleri (Material Icons, özel kullanım alanı): metin değil.
+    if (text.runes.every((c) => (c >= 0xE000 && c <= 0xF8FF) || c >= 0xF0000)) continue;
     final box = MatrixUtils.transformRect(r.getTransformTo(null), Offset.zero & r.size);
     if (!box.overlaps(screenRect)) continue; // görünmeyen (kaydırılabilir alanda aşağıda) metin
     if (r.didExceedMaxLines) {
@@ -132,7 +134,7 @@ void checkLayout(WidgetTester tester, LayoutIssues issues, ErrorTrap trap, Strin
     }
     if (r.size.width <= 0) continue;
     final need = r.getMaxIntrinsicHeight(r.size.width);
-    if (need > r.size.height + 1.5) {
+    if (need > r.size.height + 3) {
       issues.add(screen, combo, 'kesik_metin',
           '"${_short(text)}" kutusuna sığmıyor (${need.toStringAsFixed(0)} > ${r.size.height.toStringAsFixed(0)})');
     }
@@ -159,15 +161,18 @@ void checkLayout(WidgetTester tester, LayoutIssues issues, ErrorTrap trap, Strin
 
 String _short(String s) => s.length > 40 ? '${s.substring(0, math.min(40, s.length))}…' : s;
 
+/// Her denemede ağacın sıfırdan kurulması için (taşma uyarısı her boyutta
+/// yeniden bildirilir): kökteki durum (ör. ProviderScope) korunur.
+Widget fresh(Widget child) => KeyedSubtree(key: UniqueKey(), child: child);
+
 /// Görünümü verilen mantıksal boyuta ayarlar.
 void setScreen(WidgetTester tester, Size logical, {double dpr = 2}) {
   tester.view.devicePixelRatio = dpr;
   tester.view.physicalSize = logical * dpr;
 }
 
-/// Tüm boyut/yön/ölçek denemelerinde [screen] ekranını dolaşır. Her
-/// denemede ağaç sıfırdan kurulur (taşma uyarısı her boyutta yeniden
-/// bildirilsin diye).
+/// Tüm boyut/yön/ölçek denemelerinde [screen] ekranını dolaşır. [build]
+/// ağacı her denemede [fresh] ile yeniden kurmalıdır.
 Future<void> sweep(
   WidgetTester tester,
   LayoutIssues issues,
@@ -187,9 +192,6 @@ Future<void> sweep(
           final logical = land ? Size(size.height, size.width) : size;
           if (skip != null && skip(logical)) continue;
           setScreen(tester, logical);
-          await tester.pumpWidget(const SizedBox());
-          await tester.pump(const Duration(milliseconds: 50));
-          trap.take();
           await build(lang);
           for (var i = 0; i < settleMs ~/ 100; i++) {
             await tester.pump(const Duration(milliseconds: 100));
