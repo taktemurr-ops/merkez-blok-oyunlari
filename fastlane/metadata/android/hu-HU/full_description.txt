@@ -1,9 +1,9 @@
-Blokkjátékok: 17 különböző blokkrejtvény és 20 táblaváltozat egy alkalmazásban. Minden játék saját haladást, küldetéseket és eredményeket tart.
+Blokkjátékok: 19 különböző blokkrejtvény és 20 táblaváltozat egy alkalmazásban. Minden játék saját haladást, küldetéseket és eredményeket tart.
 
 • Blokk-kirakó mester: Rakj blokkokat, robbants vonalakat!
 • Blokk-szudoku: Töltsd ki a sorokat, oszlopokat és 3x3-as mezőket!
 • Töltsd ki az alakot: Töltsd ki az alakot minden elemmel!
-• Hulló blokkok: Rakd le az elemeket, töröld a sorokat!
+• Hulló blokkok: Rakd le az elemeket, töröld a sorokat!, Színpárok
 • Hatszögblokkok: Teljesíts vonalakat három irányban!
 • Blokktolás: Told, ejtsd, töltsd ki a sort!
 • Számhullás: Olvaszd össze az egyforma számokat!
@@ -17,6 +17,8 @@ Blokkjátékok: 17 különböző blokkrejtvény és 20 táblaváltozat egy alkal
 • Egyensúlytorony: Húzz, rakd fel, és döntse le az ellenfél!
 • Billenődoboz: Billentsd, párosítsd, olvaszd!
 • Területosztó: Oszd fel a számok szerint, töltsd ki a táblát!
+• Színpárok: Köss össze 4 egyszínűt, építs láncot!
+• Kockakaland: Tüntesd el a sorokat, fedd fel a képet!
 • Blokkválogatás: táblák és elemkészletek
 
 Kiemelt

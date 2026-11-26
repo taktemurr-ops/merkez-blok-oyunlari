@@ -1,9 +1,9 @@
-Blokspil samler 17 forskellige blokgåder og 20 brætvarianter i én app. Hvert spil har sine egne fremskridt, missioner og præstationer.
+Blokspil samler 19 forskellige blokgåder og 20 brætvarianter i én app. Hvert spil har sine egne fremskridt, missioner og præstationer.
 
 • Blokpuslemester: Placer blokke, spræng linjer!
 • Bloksudoku: Udfyld rækker, kolonner og 3x3-felter!
 • Udfyld formen: Udfyld formen med alle brikkerne!
-• Faldende blokke: Placer brikkerne, ryd rækkerne!
+• Faldende blokke: Placer brikkerne, ryd rækkerne!, Farvepar
 • Hexblokke: Fuldfør linjer i tre retninger!
 • Bloksliden: Skub, slip, fuldfør rækken!
 • Talfald: Slå ens tal sammen, og lad dem vokse!
@@ -17,6 +17,8 @@ Blokspil samler 17 forskellige blokgåder og 20 brætvarianter i én app. Hvert 
 • Balancetårnet: Træk, stabl, og lad modstanderen vælte det!
 • Vippekassen: Vip, saml, smelt!
 • Feltdeling: Del efter tallene, og fyld brættet!
+• Farvepar: Saml 4 i samme farve, byg kæder!
+• Blokeventyr: Ryd rækker, afslør billedet!
 • Blokvariation: brætter og briksæt
 
 Højdepunkter

@@ -1,9 +1,9 @@
-Blockspiele vereint 17 verschiedene Blockrätsel und 20 Brettvarianten in einer App. Jedes Spiel hat eigene Fortschritte, Aufgaben und Erfolge.
+Blockspiele vereint 19 verschiedene Blockrätsel und 20 Brettvarianten in einer App. Jedes Spiel hat eigene Fortschritte, Aufgaben und Erfolge.
 
 • Block Puzzle Meister: Blöcke legen, Reihen sprengen!
 • Block-Sudoku: Fülle Reihen, Spalten und 3x3-Felder!
 • Block-Füller: Fülle die Form mit allen Teilen!
-• Fallende Blöcke: Teile setzen, Reihen leeren!
+• Fallende Blöcke: Teile setzen, Reihen leeren!, Farbpaare
 • Hex-Blöcke: Reihen in drei Richtungen füllen!
 • Block-Schieben: Schieben, fallen lassen, Reihe füllen!
 • Zahlenfall: Gleiche Zahlen verbinden!
@@ -17,6 +17,8 @@ Blockspiele vereint 17 verschiedene Blockrätsel und 20 Brettvarianten in einer 
 • Balanceturm: Ziehen, stapeln, den Gegner fallen lassen!
 • Kippkiste: Kippen, treffen, schmelzen!
 • Flächen teilen: Nach Zahlen teilen, Brett füllen!
+• Farbpaare: Vier gleiche Farben, baue Ketten!
+• Blockabenteuer: Räume Reihen, enthülle das Bild!
 • Block-Vielfalt: Bretter und Teile
 
 Highlights

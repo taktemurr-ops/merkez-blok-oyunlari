@@ -1,4 +1,4 @@
-Permainan Blok menghimpunkan 17 teka-teki blok berbeza dan 20 varian papan dalam satu aplikasi. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+Permainan Blok menghimpunkan 19 teka-teki blok berbeza dan 20 varian papan dalam satu aplikasi. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
 
 • Master Puzzle Blok: Letak blok, ledakkan garis!
 • Sudoku Blok: Isi baris, kolom, dan petak 3x3!
@@ -17,6 +17,8 @@ Permainan Blok menghimpunkan 17 teka-teki blok berbeza dan 20 varian papan dalam
 • Menara Seimbang: Tarik, susun, biar lawan yang merobohkan!
 • Kotak Senget: Sengetkan, padankan, cairkan!
 • Bahagi Kawasan: Bahagi mengikut nombor, penuhkan papan!
+• Pasangan Warna: Satukan 4 warna sama, bina rantai!
+• Pengembaraan Blok: Kosongkan baris, dedahkan gambar tersembunyi!
 • Aneka Blok: papan dan set keping
 
 Sorotan

@@ -1,4 +1,4 @@
-Jocuri cu Blocuri reunește 17 puzzle-uri cu blocuri diferite și 20 variante de tablă într-o aplicație. Fiecare joc are propriul progres, misiuni și realizări.
+Jocuri cu Blocuri reunește 19 puzzle-uri cu blocuri diferite și 20 variante de tablă într-o aplicație. Fiecare joc are propriul progres, misiuni și realizări.
 
 • Maestrul Blocurilor: Pune blocuri, aruncă linii în aer!
 • Sudoku cu Blocuri: Umple rânduri, coloane și pătrate 3x3!
@@ -17,6 +17,8 @@ Jocuri cu Blocuri reunește 17 puzzle-uri cu blocuri diferite și 20 variante de
 • Turnul Echilibrului: Trage, stivuiește și lasă rivalul să-l dărâme!
 • Cutia Înclinată: Înclină, unește, topește!
 • Împărțirea Ariei: Împarte după numere și umple tabla!
+• Perechi de Culori: Unește 4 de o culoare, fă lanțuri!
+• Aventura Blocurilor: Curăță liniile, descoperă imaginea!
 • Varietate de Blocuri: table și seturi de piese
 
 Puncte forte

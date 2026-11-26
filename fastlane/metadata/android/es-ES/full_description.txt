@@ -1,4 +1,4 @@
-Juegos de Bloques reúne 17 puzles de bloques distintos y 20 variantes de tablero en una app. Cada juego guarda su progreso, misiones y logros.
+Juegos de Bloques reúne 19 puzles de bloques distintos y 20 variantes de tablero en una app. Cada juego guarda su progreso, misiones y logros.
 
 • Maestro de Bloques: ¡Coloca bloques y rompe líneas!
 • Sudoku de Bloques: ¡Llena filas, columnas y cajas de 3x3!
@@ -17,6 +17,8 @@ Juegos de Bloques reúne 17 puzles de bloques distintos y 20 variantes de tabler
 • Torre de Equilibrio: ¡Saca, apila y que caiga tu rival!
 • Caja Inclinada: ¡Inclina, junta, derrite!
 • Divide el Área: ¡Divide según los números y llena el tablero!
+• Parejas de Color: ¡Une 4 del mismo color y encadena!
+• Aventura de Bloques: ¡Limpia líneas y descubre la imagen!
 • Variedad de Bloques: tableros y piezas
 
 Lo más destacado

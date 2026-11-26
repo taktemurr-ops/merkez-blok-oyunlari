@@ -1,4 +1,4 @@
-Trò Chơi Khối tập hợp 17 trò xếp khối khác nhau và 20 biến thể bàn chơi trong một ứng dụng. Mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
+Trò Chơi Khối tập hợp 19 trò xếp khối khác nhau và 20 biến thể bàn chơi trong một ứng dụng. Mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
 
 • Bậc Thầy Xếp Khối: Đặt khối, nổ hàng!
 • Sudoku Khối: Lấp đầy hàng, cột và ô 3x3!
@@ -17,6 +17,8 @@ Trò Chơi Khối tập hợp 17 trò xếp khối khác nhau và 20 biến th�
 • Tháp Cân Bằng: Rút, xếp lên và để đối thủ làm đổ!
 • Hộp Nghiêng: Nghiêng, ghép, làm tan!
 • Chia Diện Tích: Chia theo con số, lấp đầy bàn!
+• Cặp Màu: Ghép 4 cùng màu, tạo chuỗi!
+• Phiêu lưu Khối: Xóa hàng, lộ bức tranh ẩn!
 • Khối Muôn Kiểu: bàn và bộ mảnh
 
 Điểm nổi bật

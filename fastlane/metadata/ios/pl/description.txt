@@ -1,4 +1,4 @@
-Gry Blokowe łączy 17 różnych łamigłówek z klockami i 20 odmian planszy w jednej aplikacji. Każda gra ma własne postępy, zadania i osiągnięcia.
+Gry Blokowe łączy 19 różnych łamigłówek z klockami i 20 odmian planszy w jednej aplikacji. Każda gra ma własne postępy, zadania i osiągnięcia.
 
 • Mistrz Klocków: Stawiaj klocki, rozbijaj linie!
 • Sudoku z Klocków: Wypełniaj rzędy, kolumny i pola 3x3!
@@ -17,6 +17,8 @@ Gry Blokowe łączy 17 różnych łamigłówek z klockami i 20 odmian planszy w 
 • Wieża Równowagi: Wyciągaj, układaj i niech przewróci się u rywala!
 • Przechylna Skrzynka: Przechyl, połącz, roztop!
 • Podział Pól: Dziel według liczb i wypełnij planszę!
+• Kolorowe pary: Połącz 4 w kolorze, buduj łańcuchy!
+• Blokowa przygoda: Czyść linie, odkryj ukryty obraz!
 • Klockowa Rozmaitość: plansze i zestawy klocków
 
 Najważniejsze

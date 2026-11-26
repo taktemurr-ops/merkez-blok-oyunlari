@@ -1,4 +1,4 @@
-Pinagsasama ng Mga Larong Bloke ang 17 iba’t ibang block puzzle at 20 variant ng board sa iisang app. May sariling progreso, misyon at tagumpay ang bawat laro.
+Pinagsasama ng Mga Larong Bloke ang 19 iba’t ibang block puzzle at 20 variant ng board sa iisang app. May sariling progreso, misyon at tagumpay ang bawat laro.
 
 • Dalubhasa sa Block Puzzle: Maglagay ng bloke, pasabugin ang linya!
 • Block Sudoku: Punuin ang hanay, kolum, at 3x3 na kahon!
@@ -17,6 +17,8 @@ Pinagsasama ng Mga Larong Bloke ang 17 iba’t ibang block puzzle at 20 variant 
 • Tore ng Balanse: Hilahin, ipatong, at hayaang bumagsak sa kalaban!
 • Kahong Tagilid: Itagilid, ipares, tunawin!
 • Hati ng Lugar: Hatiin ayon sa numero, punuin ang board!
+• Magkapares na Kulay: Pagdugtungin ang 4 na magkakulay, gumawa ng kadena!
+• Pakikipagsapalaran ng Bloke: Linisin ang mga hanay, ilantad ang nakatagong larawan!
 • Sari-saring Bloke: mga board at set ng piraso
 
 Mga tampok

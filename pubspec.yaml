@@ -18,7 +18,7 @@ dependencies:
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: b4ba0905f80b604879db55a10ccea25e66ae1071
+      ref: 325b11b46b6b1b9328c38456d6142f06e6184f65
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
@@ -87,6 +87,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-alan-bolme
       ref: fdc032d6068d5603515fb8ff47102054602c27d1
+  oyun_renk_ikilileri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-renk-ikilileri
+      ref: ec5a257e10eaed9e7cd382008e88a35e255f5c5e
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -104,7 +108,7 @@ dependency_overrides:
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: b4ba0905f80b604879db55a10ccea25e66ae1071
+      ref: 325b11b46b6b1b9328c38456d6142f06e6184f65
   # Tüm oyunlar aynı çekirdek sürümünü kullansın.
   studio_core:
     git:

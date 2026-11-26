@@ -19,6 +19,8 @@ void main() {
       'oyun-blok-kule-dengesi',
       'oyun-egim-kutusu',
       'oyun-alan-bolme',
+      'oyun-renk-ikilileri',
+      'oyun-blok-macerasi',
     ]);
     expect(all.length, ids.length + 20);
     expect(all.toSet().length, all.length);

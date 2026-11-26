@@ -1,4 +1,4 @@
-Klosspill samler 17 ulike klossgåter og 20 brettvarianter i én app. Hvert spill har egen fremgang, oppdrag og prestasjoner.
+Klosspill samler 19 ulike klossgåter og 20 brettvarianter i én app. Hvert spill har egen fremgang, oppdrag og prestasjoner.
 
 • Klosspuslemester: Plasser klosser, spreng linjer!
 • Klossudoku: Fyll rader, kolonner og 3x3-felter!
@@ -17,6 +17,8 @@ Klosspill samler 17 ulike klossgåter og 20 brettvarianter i én app. Hvert spil
 • Balansetårnet: Trekk ut, stable og la motstanderen velte det!
 • Vippekassa: Vipp, samle, smelt!
 • Flatedeling: Del etter tallene og fyll brettet!
+• Fargepar: Samle 4 i samme farge, bygg kjeder!
+• Blokkeventyr: Rydd rader, avslør bildet!
 • Klossvariasjon: brett og brikkesett
 
 Høydepunkter

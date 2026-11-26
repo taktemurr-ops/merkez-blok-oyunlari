@@ -1,4 +1,4 @@
-Giochi di Blocchi riunisce 17 rompicapi a blocchi diversi e 20 varianti di tabellone in una app. Ogni gioco ha progressi, missioni e obiettivi propri.
+Giochi di Blocchi riunisce 19 rompicapi a blocchi diversi e 20 varianti di tabellone in una app. Ogni gioco ha progressi, missioni e obiettivi propri.
 
 • Maestro dei Blocchi: Piazza blocchi, fai esplodere le linee!
 • Sudoku a Blocchi: Riempi righe, colonne e riquadri 3x3!
@@ -17,6 +17,8 @@ Giochi di Blocchi riunisce 17 rompicapi a blocchi diversi e 20 varianti di tabel
 • Torre dell'Equilibrio: Tira, impila e lascia crollare l'avversario!
 • Scatola Inclinata: Inclina, unisci, sciogli!
 • Dividi l'Area: Dividi secondo i numeri e riempi la tavola!
+• Coppie di Colori: Unisci 4 dello stesso colore, crea catene!
+• Avventura a Blocchi: Libera le righe, scopri l'immagine!
 • Varietà di Blocchi: tabelloni e set di pezzi
 
 In evidenza

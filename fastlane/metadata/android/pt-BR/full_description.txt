@@ -1,4 +1,4 @@
-Jogos de Blocos reúne 17 quebra-cabeças de blocos diferentes e 20 variantes de tabuleiro num só app. Cada jogo tem seu próprio progresso, missões e conquistas.
+Jogos de Blocos reúne 19 quebra-cabeças de blocos diferentes e 20 variantes de tabuleiro num só app. Cada jogo tem seu próprio progresso, missões e conquistas.
 
 • Mestre dos Blocos: Coloque blocos, exploda linhas!
 • Sudoku de Blocos: Preencha linhas, colunas e caixas 3x3!
@@ -17,6 +17,8 @@ Jogos de Blocos reúne 17 quebra-cabeças de blocos diferentes e 20 variantes de
 • Torre do Equilíbrio: Puxe, empilhe e deixe o rival derrubar!
 • Caixa Inclinada: Incline, junte, derreta!
 • Divisão de Áreas: Divida pelos números e preencha o tabuleiro!
+• Pares de Cores: Junte 4 da mesma cor, faça cadeias!
+• Aventura dos Blocos: Limpe linhas e revele a imagem!
 • Variedade de Blocos: tabuleiros e peças
 
 Destaques

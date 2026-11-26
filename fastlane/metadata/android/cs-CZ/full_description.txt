@@ -1,9 +1,9 @@
-Blokové hry spojuje 17 různých blokových hlavolamů a 20 variant hrací plochy v jedné aplikaci. Každá hra má vlastní postup, úkoly a úspěchy.
+Blokové hry spojuje 19 různých blokových hlavolamů a 20 variant hrací plochy v jedné aplikaci. Každá hra má vlastní postup, úkoly a úspěchy.
 
 • Mistr kostek: Pokládej bloky, odstřeluj řady!
 • Blokové sudoku: Vyplň řádky, sloupce a pole 3x3!
 • Vyplň tvar: Vyplň tvar všemi dílky!
-• Padající bloky: Pokládej dílky, čisti řady!
+• Padající bloky: Pokládej dílky, čisti řady!, Barevné dvojice
 • Šestiúhelníkové bloky: Skládej řady ve třech směrech!
 • Posun bloků: Posouvej, pouštěj, doplň řadu!
 • Padající čísla: Spojuj stejná čísla a nech je růst!
@@ -17,6 +17,8 @@ Blokové hry spojuje 17 různých blokových hlavolamů a 20 variant hrací ploc
 • Věž rovnováhy: Vytáhni, polož nahoru a nech soupeře shodit věž!
 • Naklápěcí krabice: Nakloň, spoj, rozpusť!
 • Dělení ploch: Děl podle čísel a vyplň desku!
+• Barevné dvojice: Spoj 4 stejné barvy, stav řetězy!
+• Kostková výprava: Čisti řady, odhal skrytý obrázek!
 • Kostkový mix: desky a sady dílků
 
 Hlavní přednosti

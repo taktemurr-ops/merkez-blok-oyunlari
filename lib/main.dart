@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:game_001_block_puzzle_master/game/game_config.dart' as blok_bulmaca;
+import 'package:game_001_block_puzzle_master/game/adventure_config.dart';
 import 'package:oyun_3b_kup_bulmaca/oyun_3b_kup_bulmaca.dart';
 import 'package:oyun_blok_doldurma/oyun_blok_doldurma.dart';
 import 'package:oyun_altigen_blok/oyun_altigen_blok.dart';
@@ -14,6 +15,7 @@ import 'package:oyun_egim_kutusu/oyun_egim_kutusu.dart';
 import 'package:oyun_dusen_bloklar/oyun_dusen_bloklar.dart';
 import 'package:oyun_kum_bloklari/oyun_kum_bloklari.dart';
 import 'package:oyun_poliomino_yerlestirme/oyun_poliomino_yerlestirme.dart';
+import 'package:oyun_renk_ikilileri/oyun_renk_ikilileri.dart';
 import 'package:oyun_renkli_blok_cikisi/oyun_renkli_blok_cikisi.dart';
 import 'package:oyun_retro_tugla_konsolu/oyun_retro_tugla_konsolu.dart';
 import 'package:oyun_sayili_blok_dusurme/oyun_sayili_blok_dusurme.dart';
@@ -113,6 +115,8 @@ final hubConfig = HubConfig(
     kuleDengesiConfig,
     egimKutusuConfig,
     alanBolmeConfig,
+    renkIkilileriConfig,
+    blokMacerasiConfig,
   ],
   starters: ['game-001-block-puzzle-master', 'oyun-blok-sudoku', 'oyun-dusen-bloklar'],
   groups: [blokCesitGroup],
@@ -153,7 +157,7 @@ final hubConfig = HubConfig(
           'Đặt và xóa',
           'Ilagay at linisin',
         ],
-        ids: ['game-001-block-puzzle-master', 'oyun-blok-sudoku', 'oyun-blok-doldurma', 'oyun-altigen-blok', 'oyun-poliomino-yerlestirme', 'oyun-alan-bolme', 'oyun-blok-cesit-paketi']),
+        ids: ['game-001-block-puzzle-master', 'oyun-blok-sudoku', 'oyun-blok-doldurma', 'oyun-altigen-blok', 'oyun-poliomino-yerlestirme', 'oyun-alan-bolme', 'oyun-blok-cesit-paketi', 'oyun-blok-macerasi']),
     HubSection(
         title: [
           'Düşen bloklar',
@@ -190,7 +194,7 @@ final hubConfig = HubConfig(
           'Khối rơi',
           'Mga nahuhulog na bloke',
         ],
-        ids: ['oyun-dusen-bloklar', 'oyun-altigen-dusen-bloklar', 'oyun-sayili-blok-dusurme', 'oyun-retro-tugla-konsolu', 'oyun-kum-bloklari']),
+        ids: ['oyun-dusen-bloklar', 'oyun-altigen-dusen-bloklar', 'oyun-sayili-blok-dusurme', 'oyun-retro-tugla-konsolu', 'oyun-kum-bloklari', 'oyun-renk-ikilileri']),
     HubSection(
         title: [
           'Kaydır ve çıkar',
@@ -306,6 +310,8 @@ final hubConfig = HubConfig(
     'oyun-renkli-blok-cikisi': GameCover('b-renkli'),
     'oyun-retro-tugla-konsolu': GameCover('b-retro'),
     'oyun-sayili-blok-dusurme': GameCover('b-sayili'),
+    'oyun-renk-ikilileri': GameCover('b-ikili'),
+    'oyun-blok-macerasi': GameCover('b-macera'),
   },
   defaultCover: const GameCover('blocks'),
 );

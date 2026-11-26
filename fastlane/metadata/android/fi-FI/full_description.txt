@@ -1,9 +1,9 @@
-Palikkapelit kokoaa 17 erilaista palikkapulmaa ja 20 pelilautamuunnelmaa yhteen sovellukseen. Jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+Palikkapelit kokoaa 19 erilaista palikkapulmaa ja 20 pelilautamuunnelmaa yhteen sovellukseen. Jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
 
 • Palikkapulmamestari: Aseta palikoita, räjäytä rivejä!
 • Palikkasudoku: Täytä rivit, sarakkeet ja 3x3-ruudut!
 • Täytä muoto: Täytä muoto kaikilla paloilla!
-• Putoavat palikat: Aseta palat, tyhjennä rivit!
+• Putoavat palikat: Aseta palat, tyhjennä rivit!, Väriparit
 • Kuusikulmiopalikat: Täydennä rivejä kolmeen suuntaan!
 • Palikkaliuku: Liu'uta, pudota, täydennä rivi!
 • Numeropudotus: Yhdistä samat luvut ja kasvata niitä!
@@ -17,6 +17,8 @@ Palikkapelit kokoaa 17 erilaista palikkapulmaa ja 20 pelilautamuunnelmaa yhteen 
 • Tasapainotorni: Vedä, pinoa ja anna vastustajan kaataa se!
 • Kallistuslaatikko: Kallista, yhdistä, sulata!
 • Pinta-alajako: Jaa numeroiden mukaan ja täytä lauta!
+• Väriparit: Yhdistä 4 samanväristä, rakenna ketjuja!
+• Palikkaseikkailu: Tyhjennä rivejä, paljasta kuva!
 • Palikkavalikoima: laudat ja palasarjat
 
 Kohokohdat

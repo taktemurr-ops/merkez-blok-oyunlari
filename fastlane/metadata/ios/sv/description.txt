@@ -1,9 +1,9 @@
-Blockspel samlar 17 olika blockpussel och 20 brädvarianter i en app. Varje spel har egna framsteg, uppdrag och prestationer.
+Blockspel samlar 19 olika blockpussel och 20 brädvarianter i en app. Varje spel har egna framsteg, uppdrag och prestationer.
 
 • Blockpusselmästare: Placera block, spräng linjer!
 • Blocksudoku: Fyll rader, kolumner och 3x3-rutor!
 • Fyll formen: Fyll formen med alla bitar!
-• Fallande block: Placera bitarna, rensa raderna!
+• Fallande block: Placera bitarna, rensa raderna!, Färgpar
 • Hexblock: Fyll linjer i tre riktningar!
 • Blockglid: Skjut, släpp, fyll raden!
 • Siffersläpp: Slå ihop lika tal, låt dem växa!
@@ -17,6 +17,8 @@ Blockspel samlar 17 olika blockpussel och 20 brädvarianter i en app. Varje spel
 • Balanstornet: Dra, stapla och låt motståndaren välta den!
 • Lutlådan: Luta, para ihop, smält!
 • Ytdelning: Dela efter siffrorna och fyll brädet!
+• Färgpar: Samla 4 i samma färg, bygg kedjor!
+• Blockäventyr: Rensa rader, avslöja bilden!
 • Blockvariation: brädor och bituppsättningar
 
 Höjdpunkter

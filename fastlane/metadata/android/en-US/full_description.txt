@@ -1,4 +1,4 @@
-Block Games brings 17 different block puzzles and 20 board variants together in one app. Every game keeps its own progress, missions and achievements.
+Block Games brings 19 different block puzzles and 20 board variants together in one app. Every game keeps its own progress, missions and achievements.
 
 • Block Puzzle Master: Place blocks, blast lines!
 • Block Sudoku: Fill rows, columns and 3x3 boxes!
@@ -17,6 +17,8 @@ Block Games brings 17 different block puzzles and 20 board variants together in 
 • Balance Tower: Pull, stack, and let your rival topple it!
 • Tilt Tray: Tilt, match, melt!
 • Area Split: Split by the numbers, fill the board!
+• Color Pairs: Join 4 of a colour, build chains!
+• Block Adventure: Clear lines, uncover the hidden picture!
 • Block Variety: boards and piece sets
 
 Highlights

@@ -1,4 +1,4 @@
-Jeux de Blocs réunit 17 casse-têtes de blocs et 20 variantes de plateau dans une app. Chaque jeu garde sa progression, ses missions et ses succès.
+Jeux de Blocs réunit 19 casse-têtes de blocs et 20 variantes de plateau dans une app. Chaque jeu garde sa progression, ses missions et ses succès.
 
 • Maître des Blocs: Placez les blocs, explosez les lignes !
 • Sudoku Blocs: Remplissez lignes, colonnes et carrés 3x3 !
@@ -17,6 +17,8 @@ Jeux de Blocs réunit 17 casse-têtes de blocs et 20 variantes de plateau dans u
 • Tour d'Équilibre: Tirez, empilez, faites tomber l'adversaire !
 • Boîte Penchée: Penchez, réunissez, faites fondre !
 • Partage d'Aires: Découpez selon les nombres, remplissez le plateau !
+• Paires de Couleurs: Réunis 4 couleurs, crée des chaînes !
+• Aventure de Blocs: Videz les lignes, dévoilez l'image !
 • Variété de Blocs: plateaux et pièces
 
 Points forts

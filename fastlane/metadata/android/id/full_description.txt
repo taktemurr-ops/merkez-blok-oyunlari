@@ -1,4 +1,4 @@
-Game Balok menghadirkan 17 teka-teki balok berbeda dan 20 varian papan dalam satu aplikasi. Setiap permainan punya progres, misi, dan pencapaian sendiri.
+Game Balok menghadirkan 19 teka-teki balok berbeda dan 20 varian papan dalam satu aplikasi. Setiap permainan punya progres, misi, dan pencapaian sendiri.
 
 • Master Puzzle Balok: Taruh balok, ledakkan garis!
 • Sudoku Balok: Isi baris, kolom, dan kotak 3x3!
@@ -17,6 +17,8 @@ Game Balok menghadirkan 17 teka-teki balok berbeda dan 20 varian papan dalam sat
 • Menara Seimbang: Tarik, tumpuk, biar lawan yang merobohkan!
 • Kotak Miring: Miringkan, pasangkan, lelehkan!
 • Bagi Area: Bagi sesuai angka, penuhi papan!
+• Pasangan Warna: Satukan 4 warna sama, buat rantai!
+• Petualangan Balok: Bersihkan baris, buka gambar tersembunyi!
 • Aneka Balok: papan dan set keping
 
 Sorotan
