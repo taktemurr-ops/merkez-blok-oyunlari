@@ -13,7 +13,7 @@ import 'package:merkez_blok_oyunlari/main.dart' as hub;
 import 'package:merkez_blok_oyunlari/approved_style.dart' as look;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:studio_core/app/app_state.dart';
-import 'package:studio_core/app/approved_hub.dart' show ApprovedHubShell;
+import 'package:studio_core/app/approved_hub.dart' show ApprovedHubShell, ApprovedLook;
 import 'package:studio_core/app/bootstrap.dart';
 import 'package:studio_core/app/hub.dart';
 import 'package:studio_core/app/screens/home.dart';

@@ -63,7 +63,7 @@ class LayoutIssues {
 /// Test sırasında Flutter'ın bildirdiği hataları (taşma dahil) yakalar.
 /// [stop] çağrılmadan test bitmemeli (FlutterError.onError geri yüklenir).
 class ErrorTrap {
-  final FlutterExceptionHandler? _old;
+  final void Function(FlutterErrorDetails details)? _old;
   final List<String> errors = [];
   ErrorTrap() : _old = FlutterError.onError {
     FlutterError.onError = (d) {
