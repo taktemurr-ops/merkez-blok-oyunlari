@@ -18,7 +18,7 @@ dependencies:
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 325b11b46b6b1b9328c38456d6142f06e6184f65
+      ref: f566fe4d01de4486da7828e9ce93afe5ec2b262b
   oyun_blok_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-blok-sudoku
@@ -108,7 +108,7 @@ dependency_overrides:
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: 325b11b46b6b1b9328c38456d6142f06e6184f65
+      ref: f566fe4d01de4486da7828e9ce93afe5ec2b262b
   # Tüm oyunlar aynı çekirdek sürümünü kullansın.
   studio_core:
     git:
